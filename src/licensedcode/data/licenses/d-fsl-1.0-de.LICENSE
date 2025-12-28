@@ -38,61 +38,61 @@ ignorable_urls:
 
 Deutsche Freie Software Lizenz
 
-(c) Ministerium fÃ¼r Wissenschaft und Forschung 
+(c) Ministerium für Wissenschaft und Forschung 
 Nordrhein-Westfalen 2004
 
 Erstellt von Axel Metzger und Till Jaeger, 
-Institut fÃ¼r Rechtsfragen der Freien und Open 
+Institut für Rechtsfragen der Freien und Open 
 Source Software - <http://www.ifross.de>.
 
-PrÃ¤ambel
+Präambel
 
 Software ist mehr als ein Wirtschaftsgut. Sie ist 
 die technische Grundlage der 
 Informationsgesellschaft. Die Frage der Teilhabe 
 der Allgemeinheit ist deswegen von besonderer 
-Bedeutung. HerkÃ¶mmlich lizenzierte Programme 
+Bedeutung. Herkömmlich lizenzierte Programme 
 werden nur im Object Code vertrieben, der Nutzer 
-darf das Programm weder verÃ¤ndern noch 
+darf das Programm weder verändern noch 
 weitergeben. Das Lizenzmodell der Freien Software 
-(synonym "Open Source Software") gewÃ¤hrt Ihnen 
+(synonym "Open Source Software") gewährt Ihnen 
 dagegen umfassende Freiheiten im Umgang mit dem 
 Programm. Die Deutsche Freie Software Lizenz 
-folgt diesem Lizenzmodell. Sie gewÃ¤hrt Ihnen das 
+folgt diesem Lizenzmodell. Sie gewährt Ihnen das 
 Recht, das Programm in umfassender Weise zu 
 nutzen. Es ist Ihnen gestattet, das Programm nach 
-Ihren Vorstellungen zu verÃ¤ndern, in verÃ¤nderter 
-oder unverÃ¤nderter Form zu vervielfÃ¤ltigen, zu 
-verbreiten und Ã¶ffentlich zugÃ¤nglich zu machen. 
-Diese Rechte werden unentgeltlich eingerÃ¤umt. 
+Ihren Vorstellungen zu verändern, in veränderter 
+oder unveränderter Form zu vervielfältigen, zu 
+verbreiten und öffentlich zugänglich zu machen. 
+Diese Rechte werden unentgeltlich eingeräumt. 
 
 Die Deutsche Freie Software Lizenz verbindet die 
-RechtseinrÃ¤umung allerdings mit Pflichten, die 
+Rechtseinräumung allerdings mit Pflichten, die 
 dem Zweck dienen, das freie Zirkulieren des 
-Programms und aller verÃ¶ffentlichten 
+Programms und aller veröffentlichten 
 Fortentwicklungen zu sichern. Wenn Sie das 
-Programm verbreiten oder Ã¶ffentlich zugÃ¤nglich 
-machen, dann mÃ¼ssen Sie jedem, der das Programm 
-von Ihnen erhÃ¤lt, eine Kopie dieser Lizenz 
+Programm verbreiten oder öffentlich zugänglich 
+machen, dann müssen Sie jedem, der das Programm 
+von Ihnen erhält, eine Kopie dieser Lizenz 
 mitliefern und den Zugriff auf den Source Code 
-ermÃ¶glichen. Eine weitere Pflicht betrifft 
-Fortentwicklungen des Programms. Ã„nderungen am 
-Programm, die Sie Ã¶ffentlich verbreiten oder 
-zugÃ¤nglich machen, mÃ¼ssen nach den Bestimmungen 
+ermöglichen. Eine weitere Pflicht betrifft 
+Fortentwicklungen des Programms. Änderungen am 
+Programm, die Sie öffentlich verbreiten oder 
+zugänglich machen, müssen nach den Bestimmungen 
 dieser Lizenz frei gegeben werden. 
 
 Die Deutsche Freie Software Lizenz nimmt auf die 
 besonderen Anforderungen des deutschen und 
-europÃ¤ischen Rechts RÃ¼cksicht. Sie ist 
+europäischen Rechts Rücksicht. Sie ist 
 zweisprachig gestaltet und damit auch auf den 
 internationalen Vertrieb ausgerichtet. 
 
 
-Â§ 0 Definitionen
+§ 0 Definitionen
 
 Dokumentation: Die Beschreibung des Aufbaus 
 und/oder der Struktur der Programmierung und/oder 
-der FunktionalitÃ¤ten des Programms, unabhÃ¤ngig 
+der Funktionalitäten des Programms, unabhängig 
 davon, ob sie im Source Code oder gesondert 
 vorgenommen wird.
 
@@ -101,97 +101,97 @@ geschlossene Vereinbarung mit dem Inhalt der
 "Deutschen Freien Software Lizenz" bzw. das 
 Angebot hierzu. 
 
-Lizenznehmer: Jede natÃ¼rliche oder juristische 
+Lizenznehmer: Jede natürliche oder juristische 
 Person, die die Lizenz angenommen hat.
 
 Programm: Jedes Computerprogramm, das von den 
 Rechtsinhabern nach den Bestimmungen dieser 
-Lizenz verbreitet oder Ã¶ffentlich zugÃ¤nglich 
+Lizenz verbreitet oder öffentlich zugänglich 
 gemacht worden ist.
 
-Object Code: Die maschinenlesbare, Ã¼bersetzte 
+Object Code: Die maschinenlesbare, übersetzte 
 Form des Programms.
 
-Ã–ffentlich: Nicht nur an einen bestimmten 
-Personenkreis gerichtet, der persÃ¶nlich oder 
-durch die ZugehÃ¶rigkeit zu einer juristischen 
-Person oder einem Ã¶ffentlichen TrÃ¤ger miteinander 
+Öffentlich: Nicht nur an einen bestimmten 
+Personenkreis gerichtet, der persönlich oder 
+durch die Zugehörigkeit zu einer juristischen 
+Person oder einem öffentlichen Träger miteinander 
 verbunden ist.
 
-Ã–ffentlich zugÃ¤nglich machen: Die Ã¶ffentliche 
-Weitergabe des Programms in unkÃ¶rperlicher Form, 
+Öffentlich zugänglich machen: Die öffentliche 
+Weitergabe des Programms in unkörperlicher Form, 
 insbesondere das Bereithalten zum Download in 
 Datennetzen.  
 
 Rechtsinhaber: Der bzw. die Urheber oder 
-sonstigen Inhaber der ausschlieÃŸlichen 
+sonstigen Inhaber der ausschließlichen 
 Nutzungsrechte an dem Programm.
 
-Source Code: Die fÃ¼r Menschen lesbare, in 
+Source Code: Die für Menschen lesbare, in 
 Programmiersprache dargestellte Form des 
 Programms.
 
-VerÃ¤ndern: Jede Erweiterung, KÃ¼rzung und 
+Verändern: Jede Erweiterung, Kürzung und 
 Bearbeitung des Programms, insbesondere 
 Weiterentwicklungen.
 
-Verbreiten: Die Ã¶ffentliche Weitergabe 
-kÃ¶rperlicher VervielfÃ¤ltigungsstÃ¼cke, 
-insbesondere auf DatentrÃ¤gern oder in Verbindung 
+Verbreiten: Die öffentliche Weitergabe 
+körperlicher Vervielfältigungsstücke, 
+insbesondere auf Datenträgern oder in Verbindung 
 mit Hardware. 
 
-VollstÃ¤ndiger Source Code: Der Source Code in der 
-fÃ¼r die Erstellung bzw. die Bearbeitung benutzten 
-Form zusammen mit den zur Ãœbersetzung und 
+Vollständiger Source Code: Der Source Code in der 
+für die Erstellung bzw. die Bearbeitung benutzten 
+Form zusammen mit den zur Übersetzung und 
 Installation erforderlichen Konfigurationsdateien 
 und Software-Werkzeugen, sofern diese in der 
-benÃ¶tigten Form nicht allgemein gebrÃ¤uchlich 
-(z.B. Standard-Kompiler) oder fÃ¼r jedermann 
-lizenzgebÃ¼hrenfrei im Internet abrufbar sind.
+benötigten Form nicht allgemein gebräuchlich 
+(z.B. Standard-Kompiler) oder für jedermann 
+lizenzgebührenfrei im Internet abrufbar sind.
 
 
-Â§ 1 Rechte
+§ 1 Rechte
 
-(1) Sie dÃ¼rfen das Programm in unverÃ¤nderter Form 
-vervielfÃ¤ltigen, verbreiten und Ã¶ffentlich 
-zugÃ¤nglich machen. 
+(1) Sie dürfen das Programm in unveränderter Form 
+vervielfältigen, verbreiten und öffentlich 
+zugänglich machen. 
 
-(2) Sie dÃ¼rfen das Programm verÃ¤ndern und 
-entsprechend verÃ¤nderte Versionen 
-vervielfÃ¤ltigen, verbreiten und Ã¶ffentlich 
-zugÃ¤nglich machen. Gestattet ist auch die 
+(2) Sie dürfen das Programm verändern und 
+entsprechend veränderte Versionen 
+vervielfältigen, verbreiten und öffentlich 
+zugänglich machen. Gestattet ist auch die 
 Kombination des Programms oder Teilen hiervon mit 
 anderen Programmen. 
 
 (3) Sie erhalten die Rechte unentgeltlich.
 
 
-Â§ 2 Pflichten beim Vertrieb
+§ 2 Pflichten beim Vertrieb
 
 (1) Wenn Sie das Programm verbreiten oder 
-Ã¶ffentlich zugÃ¤nglich machen, sei es in 
-unverÃ¤nderter oder verÃ¤nderter Form, sei es in 
+öffentlich zugänglich machen, sei es in 
+unveränderter oder veränderter Form, sei es in 
 einer Kombination mit anderen Programmen oder in 
-Verbindung mit Hardware, dann mÃ¼ssen sie 
+Verbindung mit Hardware, dann müssen sie 
 mitliefern:
 
 1. alle Vermerke im Source Code und/oder Object 
 Code, die auf diese Lizenz hinweisen;
  
 2. alle Vermerke im Source Code und/oder Object 
-Code, die Ã¼ber die Urheber des Programms Auskunft 
+Code, die über die Urheber des Programms Auskunft 
 geben;
 
-3. einen fÃ¼r den EmpfÃ¤nger deutlich wahrnehmbaren 
+3. einen für den Empfänger deutlich wahrnehmbaren 
 Hinweis auf diese Lizenz und die Internetadresse 
 <http://www.d-fsl.de>; 
 
-4. den vollstÃ¤ndigen Text dieser Lizenz in 
+4. den vollständigen Text dieser Lizenz in 
 deutlich wahrnehmbarer Weise.
 
 (2) Wenn bei der Installation des Programms 
 und/oder beim Programmstart Lizenz- und/oder 
-Vertragsbedingungen angezeigt werden, dann mÃ¼ssen
+Vertragsbedingungen angezeigt werden, dann müssen
 
 1. diese Lizenz,
 
@@ -203,41 +203,41 @@ Programmbestandteilen
 
 ebenfalls angezeigt werden. 
 
-(3) Sie dÃ¼rfen die Nutzung des Programms nicht 
-von Pflichten oder Bedingungen abhÃ¤ngig machen, 
+(3) Sie dürfen die Nutzung des Programms nicht 
+von Pflichten oder Bedingungen abhängig machen, 
 die nicht in dieser Lizenz vorgesehen sind. 
 
 (4) Sofern Sie mit dem Programm eine 
 Dokumentation erhalten haben, muss diese 
 Dokumentation entsprechend mitgeliefert werden, 
 es sei denn, die freie Mitlieferung der 
-Dokumentation ist Ihnen aufgrund der Lizenz fÃ¼r 
+Dokumentation ist Ihnen aufgrund der Lizenz für 
 die Dokumentation nicht gestattet.
 
 
-Â§ 3 Weitere Pflichten beim Vertrieb verÃ¤nderter 
+§ 3 Weitere Pflichten beim Vertrieb veränderter 
 Versionen 
 
-(1) VerÃ¤nderte Versionen des Programms dÃ¼rfen Sie 
+(1) Veränderte Versionen des Programms dürfen Sie 
 nur unter den Bedingungen dieser Lizenz 
-verbreiten oder Ã¶ffentlich zugÃ¤nglich machen, so 
-dass Dritte das verÃ¤nderte Programm insgesamt 
-unter dieser Lizenz nutzen kÃ¶nnen. 
+verbreiten oder öffentlich zugänglich machen, so 
+dass Dritte das veränderte Programm insgesamt 
+unter dieser Lizenz nutzen können. 
 
 (2) Wird das Programm oder ein Teil hiervon mit 
 einem anderen Programm kombiniert, gilt auch die 
-Kombination insgesamt als eine verÃ¤nderte Version 
+Kombination insgesamt als eine veränderte Version 
 des Programms, es sei denn, das andere Programm 
-ist formal und inhaltlich eigenstÃ¤ndig. Ein 
-anderes Programm ist dann als eigenstÃ¤ndig 
+ist formal und inhaltlich eigenständig. Ein 
+anderes Programm ist dann als eigenständig 
 anzusehen, wenn es die folgenden Voraussetzungen 
-alle erfÃ¼llt:
+alle erfüllt:
 
 1. Der Source Code der kombinierten Programme 
 muss jeweils in eigenen Dateien vorhanden sein, 
 die keine Bestandteile des anderen Teils 
-enthalten, die Ã¼ber die zur Programmkombination 
-Ã¼blichen und erforderlichen Informationen Ã¼ber 
+enthalten, die über die zur Programmkombination 
+üblichen und erforderlichen Informationen über 
 den anderen Teil hinausgehen, wobei der Source 
 Code des anderen Programms nicht mitgeliefert 
 werden muss.
@@ -249,15 +249,15 @@ entweder alleine oder mit sonstigen Programmen.
 Was als "sinnvoll nutzbar" anzusehen ist, richtet 
 sich nach der Auffassung der betroffenen 
 Fachkreise. Zu den betroffenen Fachkreisen 
-gehÃ¶ren alle Personen, die das Programm oder 
-Programme mit vergleichbarer FunktionalitÃ¤t 
-entwickeln, benutzen, verbreiten oder Ã¶ffentlich 
-zugÃ¤nglich machen.
+gehören alle Personen, die das Programm oder 
+Programme mit vergleichbarer Funktionalität 
+entwickeln, benutzen, verbreiten oder öffentlich 
+zugänglich machen.
 
 (3) Wenn Sie das Programm oder einen Teil hiervon 
-- verÃ¤ndert oder unverÃ¤ndert - zusammen mit einem 
-anderen Programm verbreiten oder Ã¶ffentlich 
-zugÃ¤nglich machen, das unter der GNU General 
+- verändert oder unverändert - zusammen mit einem 
+anderen Programm verbreiten oder öffentlich 
+zugänglich machen, das unter der GNU General 
 Public License (GPL) lizenziert wird, darf das 
 Programm auch unter den Bedingungen der GPL 
 genutzt werden, sofern es mit dem anderen 
@@ -275,178 +275,178 @@ charge to all third parties under the terms of
 this License." Die GPL kann abgerufen werden 
 unter <http://www.fsf.org/licenses/gpl>.
 
-(4) Wenn Sie das Programm in einer verÃ¤nderten 
-Form verbreiten oder Ã¶ffentlich zugÃ¤nglich 
-machen, mÃ¼ssen Sie im Source Code einen Hinweis 
-mit den Ã„nderungen aufnehmen und mit dem Datum 
-der Ã„nderung versehen. Der Hinweis muss erkennen 
-lassen, welche Ã„nderungen vorgenommen wurden und 
-bestehende Vermerke, die Ã¼ber die Urheber des 
-Programms Auskunft geben, Ã¼bernehmen. Dies gilt 
-unabhÃ¤ngig davon, ob Sie einen eigenen 
-Urhebervermerk hinzufÃ¼gen. Anstelle eines 
-Hinweises im Source Code kÃ¶nnen Sie auch ein 
+(4) Wenn Sie das Programm in einer veränderten 
+Form verbreiten oder öffentlich zugänglich 
+machen, müssen Sie im Source Code einen Hinweis 
+mit den Änderungen aufnehmen und mit dem Datum 
+der Änderung versehen. Der Hinweis muss erkennen 
+lassen, welche Änderungen vorgenommen wurden und 
+bestehende Vermerke, die über die Urheber des 
+Programms Auskunft geben, übernehmen. Dies gilt 
+unabhängig davon, ob Sie einen eigenen 
+Urhebervermerk hinzufügen. Anstelle eines 
+Hinweises im Source Code können Sie auch ein 
 Versionskontrollsystem verwenden oder 
-weiterfÃ¼hren, sofern dieses mitverbreitet wird 
-oder Ã¶ffentlich zugÃ¤nglich ist.
+weiterführen, sofern dieses mitverbreitet wird 
+oder öffentlich zugänglich ist.
 
-(5) Sie dÃ¼rfen von Dritten fÃ¼r die EinrÃ¤umung 
-eines einfachen Nutzungsrechts an verÃ¤nderten 
+(5) Sie dürfen von Dritten für die Einräumung 
+eines einfachen Nutzungsrechts an veränderten 
 Versionen des Programms kein Entgelt verlangen.
 
-(6) Wenn Sie an der verÃ¤nderten Version des 
+(6) Wenn Sie an der veränderten Version des 
 Programms ein anderes Schutzrecht als ein 
 Urheberrecht erwerben, insbesondere ein Patent 
 oder Gebrauchsmuster, lizenzieren Sie dieses 
-Schutzrecht fÃ¼r verÃ¤nderte und unverÃ¤nderte 
+Schutzrecht für veränderte und unveränderte 
 Versionen des Programms in dem Umfang, der 
 erforderlich ist, um die Rechte aus dieser Lizenz 
-wahrnehmen zu kÃ¶nnen. 
+wahrnehmen zu können. 
 
 
-Â§ 4 Weitere Pflichten beim Vertrieb im Object 
+§ 4 Weitere Pflichten beim Vertrieb im Object 
 Code
 
 (1) Wenn Sie das Programm nur im Object Code 
-verbreiten, dann mÃ¼ssen Sie zusÃ¤tzlich zu den in 
-Â§ 2 und Â§ 3 geregelten Pflichten entweder 
+verbreiten, dann müssen Sie zusätzlich zu den in 
+§ 2 und § 3 geregelten Pflichten entweder 
 
-1. den vollstÃ¤ndigen Source Code im Internet 
-Ã¶ffentlich zugÃ¤nglich machen und bei der 
+1. den vollständigen Source Code im Internet 
+öffentlich zugänglich machen und bei der 
 Verbreitung des Object Codes deutlich auf die 
-vollstÃ¤ndige Internetadresse hinweisen, unter der 
+vollständige Internetadresse hinweisen, unter der 
 der Source Code abgerufen werden kann oder 
 
-2. den vollstÃ¤ndigen Source Code auf einem 
-hierfÃ¼r Ã¼blichen DatentrÃ¤ger unter Beachtung der 
-Â§Â§ 2 und 3 mitverbreiten.
+2. den vollständigen Source Code auf einem 
+hierfür üblichen Datenträger unter Beachtung der 
+§§ 2 und 3 mitverbreiten.
 
 (2) Wenn Sie das Programm im Object Code 
-Ã¶ffentlich zugÃ¤nglich machen, dann mÃ¼ssen Sie 
-zusÃ¤tzlich zu den in Â§ 2 und Â§ 3 geregelten 
-Pflichten den vollstÃ¤ndigen Source Code im 
-Internet Ã¶ffentlich zugÃ¤nglich machen und dabei 
-deutlich auf die vollstÃ¤ndige Internetadresse 
+öffentlich zugänglich machen, dann müssen Sie 
+zusätzlich zu den in § 2 und § 3 geregelten 
+Pflichten den vollständigen Source Code im 
+Internet öffentlich zugänglich machen und dabei 
+deutlich auf die vollständige Internetadresse 
 hinweisen.
 
 (3) Sofern Sie mit dem Programm eine 
 Dokumentation erhalten haben, muss diese 
-Dokumentation entsprechend der AbsÃ¤tze 1 und 2 
+Dokumentation entsprechend der Absätze 1 und 2 
 mitgeliefert werden, es sei denn, die freie 
 Mitlieferung der Dokumentation ist Ihnen aufgrund 
-der Lizenz fÃ¼r die Dokumentation nicht gestattet.
+der Lizenz für die Dokumentation nicht gestattet.
 
 
-Â§ 5 Vertragsschluss
+§ 5 Vertragsschluss
 
 (1) Mit dieser Lizenz wird Ihnen und jeder 
 anderen Person ein Angebot auf Abschluss eines 
-Vertrages Ã¼ber die Nutzung des Programms unter 
+Vertrages über die Nutzung des Programms unter 
 den Bedingungen der Deutschen Freien 
 Softwarelizenz unterbreitet.
 
-(2) Sie dÃ¼rfen das Programm nach den jeweils 
+(2) Sie dürfen das Programm nach den jeweils 
 anwendbaren gesetzlichen Vorschriften 
-bestimmungsgemÃ¤ÃŸ benutzen, ohne dass es der 
+bestimmungsgemäß benutzen, ohne dass es der 
 Annahme dieser Lizenz bedarf. Dieses Recht 
-umfasst in der EuropÃ¤ischen Union und in den 
+umfasst in der Europäischen Union und in den 
 meisten anderen Rechtsordnungen insbesondere die 
 folgenden Befugnisse: 
 
 1. das Programm ablaufen zu lassen sowie die 
-Erstellung von hierfÃ¼r erforderlichen 
-VervielfÃ¤ltigungen im Haupt- und Arbeitsspeicher; 
+Erstellung von hierfür erforderlichen 
+Vervielfältigungen im Haupt- und Arbeitsspeicher; 
 
 2. das Erstellen einer Sicherungskopie; 
 
 3. die Fehlerberichtigung;  
 
-4. die Weitergabe einer rechtmÃ¤ÃŸig erworbenen 
-kÃ¶rperlichen Kopie des Programms.
+4. die Weitergabe einer rechtmäßig erworbenen 
+körperlichen Kopie des Programms.
  
-(3) Sie erklÃ¤ren Ihre Zustimmung zum Abschluss 
+(3) Sie erklären Ihre Zustimmung zum Abschluss 
 dieser Lizenz, indem Sie das Programm verbreiten, 
-Ã¶ffentlich zugÃ¤nglich machen, verÃ¤ndern oder in 
-einer Weise vervielfÃ¤ltigen, die Ã¼ber die 
-bestimmungsgemÃ¤ÃŸe Nutzung im Sinne von Absatz 2 
+öffentlich zugänglich machen, verändern oder in 
+einer Weise vervielfältigen, die über die 
+bestimmungsgemäße Nutzung im Sinne von Absatz 2 
 hinausgeht. Ab diesem Zeitpunkt ist diese Lizenz 
 als rechtlich verbindlicher Vertrag zwischen den 
 Rechtsinhabern und Ihnen geschlossen, ohne dass 
-es eines Zugangs der AnnahmeerklÃ¤rung bei den 
+es eines Zugangs der Annahmeerklärung bei den 
 Rechtsinhabern bedarf.
 
 (4) Sie und jeder andere Lizenznehmer erhalten 
 die Rechte aus dieser Lizenz direkt von den 
 Rechtsinhabern. Eine Unterlizenzierung oder 
-Ãœbertragung der Rechte ist nicht gestattet.
+Übertragung der Rechte ist nicht gestattet.
  
 
-Â§ 6 Beendigung der Rechte bei Zuwiderhandlung
+§ 6 Beendigung der Rechte bei Zuwiderhandlung
 
 (1) Jede Verletzung Ihrer Verpflichtungen aus 
-dieser Lizenz fÃ¼hrt zu einer automatischen 
+dieser Lizenz führt zu einer automatischen 
 Beendigung Ihrer Rechte aus dieser Lizenz. 
 
 (2) Die Rechte Dritter, die das Programm oder 
 Rechte an dem Programm von Ihnen erhalten haben, 
-bleiben hiervon unberÃ¼hrt.
+bleiben hiervon unberührt.
 
 
-Â§ 7 Haftung und GewÃ¤hrleistung
+§ 7 Haftung und Gewährleistung
 
-(1) FÃ¼r entgegenstehende Rechte Dritter haften 
+(1) Für entgegenstehende Rechte Dritter haften 
 die Rechtsinhaber nur, sofern sie Kenntnis von 
 diesen Rechten hatten, ohne Sie zu informieren.
 
-(2) Die Haftung fÃ¼r Fehler und sonstige MÃ¤ngel 
-des Programms richtet sich nach den auÃŸerhalb 
+(2) Die Haftung für Fehler und sonstige Mängel 
+des Programms richtet sich nach den außerhalb 
 dieser Lizenz getroffenen Vereinbarungen zwischen 
 Ihnen und den Rechtsinhabern oder, wenn eine 
 solche Vereinbarung nicht existiert, nach den 
 gesetzlichen Regelungen. 
 
 
-Â§ 8 VertrÃ¤ge mit Dritten
+§ 8 Verträge mit Dritten
 
 (1) Diese Lizenz regelt nur die Beziehung 
 zwischen Ihnen und den Rechtsinhabern. Sie ist 
-nicht Bestandteil der VertrÃ¤ge zwischen Ihnen und 
+nicht Bestandteil der Verträge zwischen Ihnen und 
 Dritten. 
 
-(2) Die Lizenz beschrÃ¤nkt Sie nicht in der 
+(2) Die Lizenz beschränkt Sie nicht in der 
 Freiheit, mit Dritten, die von Ihnen Kopien des 
 Programms erhalten oder Leistungen in Anspruch 
 nehmen, die im Zusammenhang mit dem Programm 
-stehen, VertrÃ¤ge beliebigen Inhalts zu schlieÃŸen, 
+stehen, Verträge beliebigen Inhalts zu schließen, 
 sofern Sie dabei Ihren Verpflichtungen aus dieser 
 Lizenz nachkommen und die Rechte der Dritten aus 
-dieser Lizenz nicht beeintrÃ¤chtigt werden. 
-Insbesondere dÃ¼rfen Sie fÃ¼r die Ãœberlassung des 
+dieser Lizenz nicht beeinträchtigt werden. 
+Insbesondere dürfen Sie für die Überlassung des 
 Programms oder sonstige Leistungen ein Entgelt 
 verlangen. 
 
 (3) Diese Lizenz verpflichtet Sie nicht, das 
 Programm an Dritte weiterzugeben. Es steht Ihnen 
 frei zu entscheiden, wem Sie das Programm 
-zugÃ¤nglich machen. Sie dÃ¼rfen aber die weitere 
+zugänglich machen. Sie dürfen aber die weitere 
 Nutzung durch Dritte nicht durch den Einsatz 
-technischer SchutzmaÃŸnahmen, insbesondere durch 
+technischer Schutzmaßnahmen, insbesondere durch 
 den Einsatz von Kopierschutzvorrichtungen 
 jeglicher Art, verhindern oder erschweren. Eine 
-passwortgeschÃ¼tzte ZugangsbeschrÃ¤nkung oder die 
+passwortgeschützte Zugangsbeschränkung oder die 
 Nutzung in einem Intranet wird nicht als 
-technische SchutzmaÃŸnahme angesehen.
+technische Schutzmaßnahme angesehen.
 
 
-Â§ 9 Text der Lizenz
+§ 9 Text der Lizenz
 
 (1) Diese Lizenz ist in deutscher und englischer 
 Sprache abgefasst. Beide Fassungen sind gleich 
 verbindlich. Es wird unterstellt, dass die in der 
 Lizenz verwandten Begriffe in beiden Fassungen 
 dieselbe Bedeutung haben. Ergeben sich dennoch 
-Unterschiede, so ist die Bedeutung maÃŸgeblich, 
-welche die Fassungen unter BerÃ¼cksichtigung des 
+Unterschiede, so ist die Bedeutung maßgeblich, 
+welche die Fassungen unter Berücksichtigung des 
 Ziels und Zwecks der Lizenz am besten miteinander 
 in Einklang bringt. 
 
@@ -456,19 +456,19 @@ Versionen der Lizenz  in Kraft setzen, soweit
 dies erforderlich und zumutbar ist. Neue 
 Versionen der Lizenz werden auf der Internetseite 
 <http://www.d-fsl.de> mit einer eindeutigen 
-Versionsnummer verÃ¶ffentlicht. Die neue Version 
-der Lizenz erlangt fÃ¼r Sie verbindliche Wirkung, 
-wenn Sie von deren VerÃ¶ffentlichung Kenntnis 
+Versionsnummer veröffentlicht. Die neue Version 
+der Lizenz erlangt für Sie verbindliche Wirkung, 
+wenn Sie von deren Veröffentlichung Kenntnis 
 genommen haben. Gesetzliche Rechtsbehelfe gegen 
-die Ã„nderung der Lizenz werden durch die 
-vorstehenden Bestimmungen nicht beschrÃ¤nkt. 
+die Änderung der Lizenz werden durch die 
+vorstehenden Bestimmungen nicht beschränkt. 
 
-(3) Sie dÃ¼rfen diese Lizenz in unverÃ¤nderter Form 
-vervielfÃ¤ltigen, verbreiten und Ã¶ffentlich 
-zugÃ¤nglich machen.
+(3) Sie dürfen diese Lizenz in unveränderter Form 
+vervielfältigen, verbreiten und öffentlich 
+zugänglich machen.
 
 
-Â§ 10 Anwendbares Recht
+§ 10 Anwendbares Recht
 
 Auf diese Lizenz findet deutsches Recht 
 Anwendung.
@@ -478,12 +478,12 @@ Anhang: Wie unterstellen Sie ein Programm der
 Deutschen Freien Software Lizenz?
 
 Um jedermann den Abschluss dieser Lizenz zu 
-ermÃ¶glichen, wird empfohlen, das Programm mit 
+ermöglichen, wird empfohlen, das Programm mit 
 folgendem Hinweis auf die Lizenz zu versehen:
 
 "Copyright (C) 20[jj] [Name des Rechtsinhabers]. 
 
-Dieses Programm kann durch jedermann gemÃ¤ÃŸ den 
+Dieses Programm kann durch jedermann gemäß den 
 Bestimmungen der Deutschen Freien Software Lizenz 
 genutzt werden. 
 

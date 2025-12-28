@@ -21,7 +21,7 @@ conditions of this Agreement. If you are an individual accessing or using the
 Software or a Modified Version on behalf of a legal entity, (i) you represent
 and warrant that you have the authority to enter into this Agreement on
 behalf of such entity and bind such entity to this Agreement, and (ii)
-references to ‚ÄúYou‚Äù in this Agreement will refer to such entity.
+references to ìYouî in this Agreement will refer to such entity.
 
 License
 
@@ -60,7 +60,7 @@ without sharing Telemetry except for Limited Non-Production Use or unless
 Licensor has issued You a License Key that allows Telemetry to be disabled
 and You disable sharing Telemetry. You understand and agree that Licensor may
 use and disclose personal information collected as part of Telemetry in
-accordance with Licensor‚Äôs Privacy Policy:
+accordance with Licensorís Privacy Policy:
 https://www.cockroachlabs.com/privacy. You acknowledge that the Software and
 Modified Versions include technical countermeasures to limit unauthorized
 use, such as operation without a required License Key or without sending
@@ -68,7 +68,7 @@ required Telemetry. You will not circumvent, remove, disable, block or alter
 any technical countermeasures, Telemetry requirements (except as permitted by
 Your License Key), License Key requirements, or other elements in the
 Software or Modified Versions designed to enforce the terms of this Agreement
-(collectively, the ‚ÄúProtective Measures‚Äù). You must include all of the
+(collectively, the ìProtective Measuresî). You must include all of the
 Protective Measures in any Modified Version You create.
 
 You will not alter, remove, or obscure any licensing, copyright, trademark,
@@ -107,14 +107,14 @@ Termination
 Your licenses to the Software will automatically terminate if You breach any
 term, condition, or restriction of this Agreement; provided that if Your
 breach is capable of being cured and You cure it within 15 days of the breach
-to Licensor‚Äôs satisfaction, Your licenses will be reinstated retroactively.
+to Licensorís satisfaction, Your licenses will be reinstated retroactively.
 Notwithstanding the foregoing, intentional or repeated breaches of this
 Agreement by You will cause Your licenses to terminate automatically and
 permanently.
 
 Disclaimer; Liability Limitations
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED ‚ÄúAS IS‚Äù
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED ìAS ISî
 AND WITHOUT ANY REPRESENTATION, WARRANTY OR CONDITION, EXPRESS OR IMPLIED,
 INCLUDING WITHOUT LIMITATION ANY REPRESENTATION, WARRANTY OR CONDITION OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT

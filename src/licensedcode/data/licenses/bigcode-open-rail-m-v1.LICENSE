@@ -12,7 +12,7 @@ BigCode Open RAIL-M v1 License Agreement
 
 Section I: Preamble
 
-This OpenRAIL-M License Agreement was created under BigCode, an open and collaborative research project aimed at the responsible development and Use of Large Language Models (‚ÄúLLMs‚Äù) for code generation. This license is generally applicable to any machine-learning Model.
+This OpenRAIL-M License Agreement was created under BigCode, an open and collaborative research project aimed at the responsible development and Use of Large Language Models (ìLLMsî) for code generation. This license is generally applicable to any machine-learning Model.
 
 This License Agreement strives for both the open and responsible Use of the accompanying Model. Openness here is understood as enabling users of the Model on a royalty free basis to Use it, modify it, and even share commercial versions of it. Use restrictions are included to prevent misuse of the Model.
 
@@ -20,33 +20,33 @@ This License Agreement governs the Use of the Model and Modifications of the Mod
 
 1.Definitions
 
-a. ‚ÄúContribution‚Äù means any work of authorship, including the original version of the Model and any Modifications of the Model that is intentionally submitted to Licensor for inclusion in the Model by the copyright owner or by an individual or entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, ‚Äúsubmitted‚Äù means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Model, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as ‚ÄúNot a Contribution.‚Äù
+a. ìContributionî means any work of authorship, including the original version of the Model and any Modifications of the Model that is intentionally submitted to Licensor for inclusion in the Model by the copyright owner or by an individual or entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, ìsubmittedî means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Model, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as ìNot a Contribution.î
 
-b. ‚ÄúContributor‚Äù means Licensor and any individual or entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Model.
+b. ìContributorî means Licensor and any individual or entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Model.
 
-c. ‚ÄúData‚Äù means a collection of information extracted from the dataset used with the Model, including to train, pretrain, or otherwise evaluate the Model. The Data is not licensed under this License Agreement.
+c. ìDataî means a collection of information extracted from the dataset used with the Model, including to train, pretrain, or otherwise evaluate the Model. The Data is not licensed under this License Agreement.
 
-d. ‚ÄúExplanatory Documentation‚Äù means model cards, data cards, or any other similar documentation or related information dedicated to inform the public about the characteristics of the model. Explanatory documentation is not licensed under this license.
+d. ìExplanatory Documentationî means model cards, data cards, or any other similar documentation or related information dedicated to inform the public about the characteristics of the model. Explanatory documentation is not licensed under this license.
 
-e. ‚ÄúHarm‚Äù includes but is not limited to physical, mental, psychological, financial and reputational damage, pain, or loss.
+e. ìHarmî includes but is not limited to physical, mental, psychological, financial and reputational damage, pain, or loss.
 
-f. ‚ÄúLicense Agreement‚Äù means this document.
+f. ìLicense Agreementî means this document.
 
-g. ‚ÄúLicensor‚Äù means the rights owners or entity authorized by the rights owners that are granting the terms and conditions of this License Agreement.
+g. ìLicensorî means the rights owners or entity authorized by the rights owners that are granting the terms and conditions of this License Agreement.
 
-h. ‚ÄúModel‚Äù means machine-learning based assemblies (including checkpoints), consisting of learnt weights and parameters (including optimizer states), corresponding to a model architecture as embodied in source code. Source code is not licensed under this License Agreement.
+h. ìModelî means machine-learning based assemblies (including checkpoints), consisting of learnt weights and parameters (including optimizer states), corresponding to a model architecture as embodied in source code. Source code is not licensed under this License Agreement.
 
-i. ‚ÄúModifications of the Model‚Äù means all changes to the Model or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or Output of the Model.
+i. ìModifications of the Modelî means all changes to the Model or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or Output of the Model.
 
-j. ‚ÄúOutput‚Äù means the results of operating the Model.
+j. ìOutputî means the results of operating the Model.
 
-k. ‚ÄúShare‚Äù means any transmission, reproduction, publication or other sharing of the Model or Modifications of the Model to a third party, including providing the Model as a hosted service made available by electronic or other remote means, including - but not limited to - API-based or web access.
+k. ìShareî means any transmission, reproduction, publication or other sharing of the Model or Modifications of the Model to a third party, including providing the Model as a hosted service made available by electronic or other remote means, including - but not limited to - API-based or web access.
 
-l. ‚ÄúThird Parties‚Äù means individuals or legal entities that are not under common control with Licensor or You.
+l. ìThird Partiesî means individuals or legal entities that are not under common control with Licensor or You.
 
-m. ‚ÄúUse‚Äù includes - but is not limited to - generating any Output, fine tuning, updating, running, training, evaluating and/or reparametrizing the Model.
+m. ìUseî includes - but is not limited to - generating any Output, fine tuning, updating, running, training, evaluating and/or reparametrizing the Model.
 
-n. ‚ÄúYou‚Äù (or ‚ÄúYour‚Äù) means an individual or Legal Entity exercising permissions granted by this License Agreement and/or making Use of the Model for whichever purpose and in any field of Use.
+n. ìYouî (or ìYourî) means an individual or Legal Entity exercising permissions granted by this License Agreement and/or making Use of the Model for whichever purpose and in any field of Use.
 
 Section II: INTELLECTUAL PROPERTY RIGHTS
 
@@ -84,9 +84,9 @@ Section IV: OTHER PROVISIONS
 
 8. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Model by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
 
-9. Trademarks and related. Nothing in this License Agreement permits You to make Use of Licensors‚Äô trademarks, trade names, logos or to otherwise suggest endorsement or misrepresent the relationship between the parties; and any rights not expressly granted herein are reserved by the Licensors.
+9. Trademarks and related. Nothing in this License Agreement permits You to make Use of Licensorsí trademarks, trade names, logos or to otherwise suggest endorsement or misrepresent the relationship between the parties; and any rights not expressly granted herein are reserved by the Licensors.
 
-10. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Model (and each Contributor provides its Contributions) on an ‚ÄúAS IS‚Äù BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or sharing the Model and Modifications of the Model, and assume any risks associated with Your exercise of permissions under this License Agreement.
+10. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Model (and each Contributor provides its Contributions) on an ìAS ISî BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or sharing the Model and Modifications of the Model, and assume any risks associated with Your exercise of permissions under this License Agreement.
 
 11. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License Agreement or out of the Use or inability to Use the Model (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, model failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
@@ -115,7 +115,7 @@ You agree not to Use the Model or Modifications of the Model:
 
 (h) To impersonate or attempt to impersonate human beings for purposes of deception;
 
-(i) For fully automated decision making that adversely impacts an individual‚Äôs legal rights or otherwise creates or modifies a binding, enforceable obligation without expressly and intelligibly disclaiming that the creation or modification of the obligation is machine generated;
+(i) For fully automated decision making that adversely impacts an individualís legal rights or otherwise creates or modifies a binding, enforceable obligation without expressly and intelligibly disclaiming that the creation or modification of the obligation is machine generated;
 
 (j) For any Use intended to discriminate against or Harm individuals or groups based on online or offline social behavior or known or predicted personal or personality characteristics;
 

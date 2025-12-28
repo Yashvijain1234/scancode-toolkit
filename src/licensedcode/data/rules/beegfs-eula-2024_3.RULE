@@ -19,15 +19,15 @@ LOG(GENERAL, WARNING, "| \"ThinkParQ GmbH\":                                    
 LOG(GENERAL, WARNING, "|                                                                              |");
 LOG(GENERAL, WARNING, "|  - The use of any Enterprise Features of BeeGFS for longer than the trial    |");
 if (enabledFeatures.empty())
-    LOG(GENERAL, WARNING, "|    period of 60 (sixty) days (ยง3.4 EULA).                                    |");
+    LOG(GENERAL, WARNING, "|    period of 60 (sixty) days (ง3.4 EULA).                                    |");
 else {
-    LOG(GENERAL, WARNING, "|    period of 60 (sixty) days (ยง3.4 EULA). The following Enterprise Features  |");
+    LOG(GENERAL, WARNING, "|    period of 60 (sixty) days (ง3.4 EULA). The following Enterprise Features  |");
     LOG(GENERAL, WARNING, "|    are currently in use:                                                     |");
     LOG(GENERAL, WARNING, "|      " + enabledFeatures + "|");
 }
-LOG(GENERAL, WARNING, "|  - The use of BeeGFS as part of a commercial turn-key solution (ยง3.3 EULA)   |");
+LOG(GENERAL, WARNING, "|  - The use of BeeGFS as part of a commercial turn-key solution (ง3.3 EULA)   |");
 LOG(GENERAL, WARNING, "|  - Any commercial services for the product BeeGFS by a third party           |");
-LOG(GENERAL, WARNING, "|    (ยง3.3 EULA)                                                               |");
+LOG(GENERAL, WARNING, "|    (ง3.3 EULA)                                                               |");
 LOG(GENERAL, WARNING, "|                                                                              |");
 LOG(GENERAL, WARNING, "| Contact: sales@thinkparq.com                                                 |");
 LOG(GENERAL, WARNING, "| Thank you for supporting BeeGFS development!                                 |");

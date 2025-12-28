@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Git & Github"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "leetcode crome extn"
+	}
+}

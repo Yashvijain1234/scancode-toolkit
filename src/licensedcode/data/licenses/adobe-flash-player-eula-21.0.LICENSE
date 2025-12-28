@@ -95,8 +95,8 @@ image projection device, and shall further exclude any similar type of consumer,
 industrial device.
 "Software" means (a) all of the contents of the files (delivered electronically or on physical media), or
 disk(s) or other media with which this agreement is provided, which may include (i) Adobe or third
-party computer information or software, including Adobe ReaderÂ® ("Adobe Reader"), AdobeÂ® AIRÂ®
-("Adobe AIR"), Adobe FlashÂ® Player, ShockwaveÂ® Player and AuthorwareÂ® Player (collectively, Adobe AIR
+party computer information or software, including Adobe Reader® ("Adobe Reader"), Adobe® AIR®
+("Adobe AIR"), Adobe Flash® Player, Shockwave® Player and Authorware® Player (collectively, Adobe AIR
 and the Flash, Shockwave and Authorware players are the "Adobe Runtimes"); (ii) related explanatory
 written materials or files ("Documentation"); and (iii) fonts; and (b) upgrades, modified versions,
 updates, additions, and copies of the foregoing, provided to you by Adobe at any time (collectively,
@@ -160,7 +160,7 @@ please refer to http://www.adobe.com/go/licensing.
 
 4.2 Adobe Flash Player Restrictions. You will not use Adobe Flash Player with any application or device
 that circumvents technological measures for the protection of video, audio, and/or data content,
-including any of Adobeâ€™s secure RTMP measures. No right or license to use Adobe Flash Player is
+including any of Adobe’s secure RTMP measures. No right or license to use Adobe Flash Player is
 granted for such prohibited uses.
 
 4.3 Adobe Reader Restrictions.
@@ -192,7 +192,7 @@ Provisions," in Section 16.
 
 5. Transfer.
 You may not rent, lease, sublicense, assign, or transfer your rights in the Software, or authorize all or any
-portion of the Software to be copied onto another userâ€™s Computer except as may be expressly
+portion of the Software to be copied onto another user’s Computer except as may be expressly
 permitted by this agreement. You may, however, transfer all your rights to Use the Software to another
 person or legal entity provided that: (a) you also transfer (i) this agreement, and (ii) the Software and all
 other software or hardware bundled or pre-installed with the Software, including all copies, Updates,
@@ -249,7 +249,7 @@ personally identifiable information associated with you. They are associated wit
 Player or the third-party program using Adobe AIR on your Computer, allowing you to customize
 runtime features. The Flash Player Settings Manager permits you to modify such settings, including the
 ability to limit third parties from storing local shared objects or grant third party content the right to
-access your computerâ€™s microphone and camera. You can find more information on how to configure
+access your computer’s microphone and camera. You can find more information on how to configure
 settings in your version of Flash Player, including information on how to disable local shared objects
 using the Flash Player Settings Manager, at http://www.adobe.com/go/settingsmanager. You can
 remove equivalent settings for third-party programs using Adobe AIR by uninstalling the third-party
@@ -288,7 +288,7 @@ previously offered at no charge. If your Computer is connected to the Internet, 
 without additional notice, update downloadable materials from these Adobe Online Services so as to
 provide immediate availability of these Adobe Online Services even when you are offline. When the
 Software connects to the Internet as a function of an Adobe Online Service, your IP Address, user name,
-and password may be sent to Adobeâ€™s servers and stored by Adobe in accordance with the Additional
+and password may be sent to Adobe’s servers and stored by Adobe in accordance with the Additional
 Terms of Use or the "help" menu in the Software. This information may be used by Adobe to send you
 transactional messages to facilitate the Adobe Online Service. Adobe may display in-product marketing
 to provide information about the Software and other Adobe products and Services, including but not 
@@ -313,7 +313,7 @@ that you will not use any of such Third Party Offerings in violation of copyrigh
 or other countries. Adobe or the third party may at any time, for any reason, modify or discontinue the
 availability of any Third Party Offerings. Adobe does not control, endorse, or accept responsibility for
 Third Party Offerings. Any dealings between you and any third party in connection with a Third Party
-Offerings, including such partyâ€™s privacy policies and use of your personal information, delivery of and
+Offerings, including such party’s privacy policies and use of your personal information, delivery of and
 payment for goods and services, and any other terms, conditions, warranties, or representations
 associated with such dealings, are solely between you and such third party. Third Party Offerings might
 not be available in all languages or to residents of all countries and Adobe or the third party may, at any
@@ -343,8 +343,8 @@ you and a Certification Authority. Before you rely upon any certified document, 
 Certification Authority services, you should review the applicable terms and conditions under which the
 relevant Certification Authority provides services, including, for example, any subscriber agreements,
 relying party agreements, certificate policies, and practice statements. See the links on
-http://www.adobe.com/go/partners_cds for information about Adobeâ€™s CDS vendors and
-http://www.adobe.com/go/aatl for information about Adobeâ€™s AATL vendors. 
+http://www.adobe.com/go/partners_cds for information about Adobe’s CDS vendors and
+http://www.adobe.com/go/aatl for information about Adobe’s AATL vendors. 
 
 9.3 Acknowledgement. You agree that (a) a digital certificate may have been revoked prior to the time
 of verification, making the digital signature or certificate appear valid when in fact it is not, (b) the
@@ -375,14 +375,14 @@ ANY DAMAGES, CLAIMS OR COSTS WHATSOEVER INCLUDING ANY CONSEQUENTIAL, INDIRECT,
 INCIDENTAL DAMAGES, OR ANY LOST PROFITS OR LOST SAVINGS, EVEN IF AN ADOBE
 REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS, DAMAGES, OR CLAIMS.
 THE FOREGOING LIMITATIONS AND EXCLUSIONS APPLY TO THE EXTENT PERMITTED BY APPLICABLE
-LAW IN YOUR JURISDICTION. ADOBEâ€™S AGGREGATE LIABILITY AND THAT OF ITS SUPPLIERS AND
+LAW IN YOUR JURISDICTION. ADOBE’S AGGREGATE LIABILITY AND THAT OF ITS SUPPLIERS AND
 CERTIFICATION AUTHORITIES UNDER OR IN CONNECTION WITH THIS AGREEMENT SHALL BE
 LIMITED TO THE AMOUNT PAID FOR THE SOFTWARE, IF ANY. Nothing contained in this agreement
-limits Adobeâ€™s liability to you in the event of death or personal injury resulting from Adobeâ€™s negligence
+limits Adobe’s liability to you in the event of death or personal injury resulting from Adobe’s negligence
 or for the tort of deceit (fraud). Adobe is acting on behalf of its suppliers and Certification Authorities for
 the purpose of disclaiming, excluding, and/or limiting obligations, warranties, and liability as provided in
 this agreement, but in no other respects and for no other purpose. For further information, please see
-the jurisdiction specific information at the end of this agreement, if any, or contact Adobeâ€™s Customer
+the jurisdiction specific information at the end of this agreement, if any, or contact Adobe’s Customer
 Support Department.
 
 11. Export Rules.
@@ -402,7 +402,7 @@ Software. If you are not such a consumer, this agreement will be governed by and
 accordance with the substantive laws in force in: (a) the State of California, if a license to the Software is
 obtained when you are in the United States, Canada, or Mexico; or (b) Japan, if a license to the Software
 is obtained when you are in Japan; or (c) Singapore, if a license to the Software is obtained when you
-are in a member state of the Association of Southeast Asian Nations, the Peopleâ€™s Republic of China
+are in a member state of the Association of Southeast Asian Nations, the People’s Republic of China
 (including Hong Kong S.A.R. and Macau S.A.R.), Taiwan, or the Republic of Korea; or (d) England, if a
 license to the Software is obtained when you are in any jurisdiction not described above. The respective
 courts of Santa Clara County, California when California law applies, Tokyo District Court in Japan, when
@@ -442,7 +442,7 @@ Rehabilitation Act of 1973, as amended, and the regulations at 41 CFR Parts 60-1
 shall be incorporated by reference in this agreement.
 
 15. Compliance with Licenses.
-If you are a business or organization, you agree that upon request from Adobe or Adobeâ€™s authorized
+If you are a business or organization, you agree that upon request from Adobe or Adobe’s authorized
 representative, you will, within thirty (30) days, fully document and certify that use of any and all
 Software at the time of the request is in conformity with your valid licenses from Adobe. 
 
@@ -458,14 +458,14 @@ Software on your behalf. Adobe has the right to impose reasonable conditions bef
 information. Any information supplied by Adobe or obtained by you, as permitted hereunder, may only
 be used by you for the purpose described herein and may not be disclosed to any third party or used to
 create any software which is substantially similar to the expression of the Software or used for any other
-act which infringes Adobe or its licensorsâ€™ copyright.
+act which infringes Adobe or its licensors’ copyright.
 
 17. Specific Provisions and Exceptions.
 
 17.1 Limitation of Liability for Users Residing in Germany and Austria.
 
 17.1.1 If you obtained the Software in Germany or Austria, and you usually reside in such country, then
-Section 10 does not apply. Instead, subject to the provisions in Section 17.1.2, Adobeâ€™s statutory liability
+Section 10 does not apply. Instead, subject to the provisions in Section 17.1.2, Adobe’s statutory liability
 for damages shall be limited as follows: (a) Adobe shall be liable only up to the amount of damages as
 typically foreseeable at the time of entering into the license agreement in respect of damages caused by
 a slightly negligent breach of a material contractual obligation and (b) Adobe shall not be liable for

@@ -18,27 +18,27 @@ Version 1.0, September 2022
 
     Definitions
 
-    2.1. ‚ÄúDerivative Works‚Äù shall mean any work, whether in Source Form or Object Form, that is based on (or derived from) the Software and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship and not an exact or repackaged copy of the Software. It includes proprietary complements, add-ons, modules, or modifications to the Object Form that link to the interfaces of the Software and the Derivative Works thereof. It shall include, among others:
+    2.1. ìDerivative Worksî shall mean any work, whether in Source Form or Object Form, that is based on (or derived from) the Software and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship and not an exact or repackaged copy of the Software. It includes proprietary complements, add-ons, modules, or modifications to the Object Form that link to the interfaces of the Software and the Derivative Works thereof. It shall include, among others:
 
         2.1.1. Any software that results from an addition to, deletion from, or modification of the contents of a file containing Original Software or Derivative Works thereof; and
 
         2.1.2. Any new file that is contributed or otherwise made available under the terms of this License.
 
-        2.1.3. ‚ÄúLicense‚Äù means the terms and conditions for use, reproduction, and distribution as defined in this document.
+        2.1.3. ìLicenseî means the terms and conditions for use, reproduction, and distribution as defined in this document.
 
-        2.1.4. ‚ÄúLicensor‚Äù shall mean Brankas, its affiliates, subsidiaries, or permitted assigns.
+        2.1.4. ìLicensorî shall mean Brankas, its affiliates, subsidiaries, or permitted assigns.
 
-        2.1.5. ‚ÄúObject Form‚Äù shall mean any form resulting from mechanical transformation or translation of a source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+        2.1.5. ìObject Formî shall mean any form resulting from mechanical transformation or translation of a source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
 
-        2.1.6. ‚ÄúOriginal Software‚Äù means the Source Code of computer software code that was originally released under this License.
+        2.1.6. ìOriginal Softwareî means the Source Code of computer software code that was originally released under this License.
 
-        2.1.7. ‚ÄúSoftware‚Äù means (a) the Original Software; (b) Derivative Works; or (c) the combination of files containing Original Software with files containing Derivative Works, in each case, including portions thereof.
+        2.1.7. ìSoftwareî means (a) the Original Software; (b) Derivative Works; or (c) the combination of files containing Original Software with files containing Derivative Works, in each case, including portions thereof.
 
-        2.1.8. ‚ÄúSource Code‚Äù means (a) the common form of computer software code in which modifications are made, and (b) associated documentation included in or with such code.
+        2.1.8. ìSource Codeî means (a) the common form of computer software code in which modifications are made, and (b) associated documentation included in or with such code.
 
-        2.1.9. ‚ÄúSource Form‚Äù shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+        2.1.9. ìSource Formî shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
 
-        2.1.10. ‚ÄúYou‚Äù means an individual or a legal entity exercising rights under this License. For legal entities, ‚ÄúYou‚Äù includes any entity that controls, is controlled by, or is under common control with you. For purposes of this definition, ‚Äúcontrol‚Äù means (a) the power, direct or indirect, to cause the direction or management of an entity, whether by contract or otherwise; or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of an entity.
+        2.1.10. ìYouî means an individual or a legal entity exercising rights under this License. For legal entities, ìYouî includes any entity that controls, is controlled by, or is under common control with you. For purposes of this definition, ìcontrolî means (a) the power, direct or indirect, to cause the direction or management of an entity, whether by contract or otherwise; or (b) ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of an entity.
 
     Grants
 
@@ -82,7 +82,7 @@ Version 1.0, September 2022
 
     Disclaimer of Warranty
 
-    8.1. Unless required by applicable law or agreed to in writing, the Licensor provides the Software on an ‚ÄúAS IS‚Äù BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing Software and assume any risks associated with Your exercise of permissions under this License.
+    8.1. Unless required by applicable law or agreed to in writing, the Licensor provides the Software on an ìAS ISî BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing Software and assume any risks associated with Your exercise of permissions under this License.
 
     Limitation of Liability
 

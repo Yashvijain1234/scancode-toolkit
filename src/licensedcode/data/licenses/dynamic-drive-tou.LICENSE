@@ -67,7 +67,7 @@ It appears inside the <script> tag of each script, and looks something like
 this:
 
 /*********************************************** 
-* Dynamic Countdown script- Â© Dynamic Drive (http://www.dynamicdrive.com) 
+* Dynamic Countdown script- © Dynamic Drive (http://www.dynamicdrive.com) 
 * This notice MUST stay intact for legal use 
 * Visit http://www.dynamicdrive.com/ for this script and 100s more.
 ***********************************************/
@@ -78,7 +78,7 @@ the page's visible source:
 
 <script src="countdown.js" type="text/javascript">
 /*********************************************** 
-* Dynamic Countdown script- Â© Dynamic Drive (http://www.dynamicdrive.com) 
+* Dynamic Countdown script- © Dynamic Drive (http://www.dynamicdrive.com) 
 * This notice MUST stay intact for legal use 
 * Visit http://www.dynamicdrive.com/ for this script and 100s more.
 ***********************************************/

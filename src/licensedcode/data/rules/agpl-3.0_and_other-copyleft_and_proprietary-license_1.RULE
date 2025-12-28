@@ -14,7 +14,7 @@ ignorable_emails:
     - info@linagora.com
 ---
 
-GNU Affero General Public License version 3 ‚Äì for LinShare software
+GNU Affero General Public License version 3 ñ for LinShare software
 License and Additional Terms for LinShare software
 LinShare is an Free and Open source filesharing software, part of the LinPKI software suite. LinShare
 and the LinShare software Programs are distributed under the GNU Affero GPL v3 License terms, with
@@ -34,10 +34,10 @@ Linagora as a free and open source software publisher, while encouraging others 
 common ideals.
 Pursuant to this license, you are therefore free to use the software and modify it according to the GNU
 Affero General Public License version 3, provided that you comply with its requirements, notably:
-‚Äì indicating, in a clear and unambiguous manner, that the software is a modification of original
+ñ indicating, in a clear and unambiguous manner, that the software is a modification of original
 code;
-‚Äì retaining Appropriate Legal Notices in the source code and the user interface;
-‚Äì keeping any modifications of the software under the terms of the GNU Affero General Public
+ñ retaining Appropriate Legal Notices in the source code and the user interface;
+ñ keeping any modifications of the software under the terms of the GNU Affero General Public
 License version 3, including its Additional Terms pursuant to its section 7, subsections (b), (c)
 and (e).
 Following are the applicable Additional Terms for use of LinShare software pursuant to section 7,
@@ -51,25 +51,25 @@ version modified by You, provides any user interface (web, command-line, or othe
 mail (or any other asynchronous message), then this user interface must display Appropriate Legal
 Notices, as required under Section 5 of the GNU Affero General Public License version 3.
 In accordance with Section 7 and subsection (b) of the GNU Affero General Public License version 3,
-these Appropriate Legal Notices consist in the interface display of the ‚ÄúLinShareTM‚Äù trademark/logo,
-the interface display of the "Libre & Free" mention, and the interface display of the ‚ÄúYou are using the
-Free and Open Source version of LinShareTM, powered by Linagora ¬© 2009‚Äì2020. Contribute to
-Linshare R&D by subscribing to an Enterprise offer!‚Äù. The latter notice must also be displayed in any
+these Appropriate Legal Notices consist in the interface display of the ìLinShareTMî trademark/logo,
+the interface display of the "Libre & Free" mention, and the interface display of the ìYou are using the
+Free and Open Source version of LinShareTM, powered by Linagora © 2009ñ2020. Contribute to
+Linshare R&D by subscribing to an Enterprise offer!î. The latter notice must also be displayed in any
 asynchronous message sent with the Program, for example e-mails which will contain this notice in
 their footer. Retaining these Appropriate Legal Notices in any and all Free and Open Source versions
 of LinShare and LinShare software Programs is mandatory notwhistanding any other terms and
 conditions.
 If the original or modified LinShare software Program does not include any interface, or if the interface
 display of the Appropriate Legal Notices is not feasible for technical reasons, execution of the Program
-should display whenever possible the notices ‚ÄúLinShare (tm)‚Äù, "Libre & Free", as well as the ‚ÄúYou are
-using the Free and Open Source of LinShare (tm), powered by Linagora (c) 2009‚Äì2020. Contribute to
-Linshare R&D by subscribing to an Enterprise offer!‚Äù. The latter notice should also be present in any
+should display whenever possible the notices ìLinShare (tm)î, "Libre & Free", as well as the ìYou are
+using the Free and Open Source of LinShare (tm), powered by Linagora (c) 2009ñ2020. Contribute to
+Linshare R&D by subscribing to an Enterprise offer!î. The latter notice should also be present in any
 aynchronous message sent with the Program (such as in the footer of e-mails).
 This notice can be translated and replaced by any notice of exactly identical meaning and exactly
 identical layout in another language according to localization of the software, provided such notice
-clearly displays the words ‚ÄúLinShare‚Äù and ‚ÄúLinagora‚Äù.
-Regardless of the notice language, the word ‚ÄúLinShare‚Äù must be a clickable hypertext link that leads
-directly to the Internet URL http://www.linshare.org/, and the word ‚ÄúLinagora‚Äù must be a clickable
+clearly displays the words ìLinShareî and ìLinagoraî.
+Regardless of the notice language, the word ìLinShareî must be a clickable hypertext link that leads
+directly to the Internet URL http://www.linshare.org/, and the word ìLinagoraî must be a clickable
 hypertext link that lead directly to the Internet URL http://www.linagora.com/.
 The trademark must appear as a clearly legible logo. Any Appropriate Legal Notice text must appear as
 a clearly legible text in the interface. The footer must appear as a clearly legible sentence in the e-mails

@@ -1,8 +1,8 @@
 ---
 license_expression: proprietary-license
 is_license_notice: yes
-relevance: 90
 is_deprecated: yes
+relevance: 90
 replaced_by:
     - gsap-standard-no-charge-2025
 ---

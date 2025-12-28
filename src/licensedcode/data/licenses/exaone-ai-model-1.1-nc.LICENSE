@@ -10,8 +10,8 @@ spdx_license_key: LicenseRef-scancode-exaone-ai-model-1.1-nc
 
 EXAONE AI Model License Agreement 1.1 - NC
 
-This License Agreement (‚ÄúAgreement‚Äù) is entered into between you (‚ÄúLicensee‚Äù) and LG Management Development 
-Institute Co., Ltd. (‚ÄúLicensor‚Äù), governing the use of the EXAONE AI Model (‚ÄúModel‚Äù). By downloading, 
+This License Agreement (ìAgreementî) is entered into between you (ìLicenseeî) and LG Management Development 
+Institute Co., Ltd. (ìLicensorî), governing the use of the EXAONE AI Model (ìModelî). By downloading, 
 installing, copying, or using the Model, you agree to comply with and be bound by the terms of this Agreement.
 If you do not agree to all the terms, you must not download, install, copy, or use the Model. This Agreement 
 constitutes a binding legal agreement between the Licensee and Licensor.
@@ -50,7 +50,7 @@ constitutes a binding legal agreement between the Licensee and Licensor.
         c. Modify the Model and create Derivatives based on the Model, provided that such modifications and 
         Derivatives are used exclusively for research purposes. The Licensee may conduct experiments, perform 
         analyses, and apply custom modifications to the Model to explore its capabilities and performance 
-        under various scenarios. If the Model is modified, the modified Model must include ‚ÄúEXAONE‚Äù at the 
+        under various scenarios. If the Model is modified, the modified Model must include ìEXAONEî at the 
         beginning of its name.
         d. Distribute the Model and Derivatives in each case with a copy of this Agreement.
     2.2 Scope of License: The license granted herein does not authorize the Licensee to use the Model for any 
@@ -105,13 +105,13 @@ constitutes a binding legal agreement between the Licensee and Licensor.
     relevant documentation or references specified by the Licensor.
 
 5. No Warranty
-    5.1 ‚ÄúAs-Is‚Äù Basis: The Model, Derivatives, and Output are provided on an ‚Äúas-is‚Äù and ‚Äúas-available‚Äù basis, 
+    5.1 ìAs-Isî Basis: The Model, Derivatives, and Output are provided on an ìas-isî and ìas-availableî basis, 
     without any warranties or representations of any kind, whether express, implied, or statutory. The 
     Licensor disclaims all warranties, including but not limited to, implied warranties of merchantability, 
     fitness for a particular purpose, accuracy, reliability, non-infringement, or any warranty arising from 
     the course of dealing or usage of trade.
     5.2 Performance and Reliability: The Licensor does not warrant or guarantee that the Model, Derivatives or 
-    Output will meet the Licensee‚Äôs requirements, that the operation of the Model, Derivatives or Output will 
+    Output will meet the Licenseeís requirements, that the operation of the Model, Derivatives or Output will 
     be uninterrupted or error-free, or that defects in the Model will be corrected. The Licensee acknowledges 
     that the use of the Model, Derivatives or Output is at its own risk and that the Model, Derivatives or 
     Output may contain bugs, errors, or other limitations.
@@ -134,7 +134,7 @@ constitutes a binding legal agreement between the Licensee and Licensor.
 
 7. Termination
     7.1 Termination by Licensor: The Licensor reserves the right to terminate this Agreement and revoke the 
-    Licensee‚Äôs rights to use the Model at any time, with or without cause, and without prior notice if the 
+    Licenseeís rights to use the Model at any time, with or without cause, and without prior notice if the 
     Licensee breaches any of the terms or conditions of this Agreement. Termination shall be effective 
     immediately upon notice.
     7.2 Effect of Termination: Upon termination of this Agreement, the Licensee must immediately cease all use 
@@ -157,7 +157,7 @@ constitutes a binding legal agreement between the Licensee and Licensor.
 
 9. Alterations
     9.1 Modifications: The Licensor reserves the right to modify or amend this Agreement at any time, in its 
-    sole discretion. Any modifications will be effective upon posting the updated Agreement on the Licensor‚Äôs 
+    sole discretion. Any modifications will be effective upon posting the updated Agreement on the Licensorís 
     website or through other means of communication. The Licensee is responsible for reviewing the Agreement 
     periodically for changes. Continued use of the Model after any modifications have been made constitutes 
     acceptance of the revised Agreement.

@@ -15,10 +15,10 @@ faq_url: https://github.com/gitpod-io/gitpod/blob/main/License.txt
 
 ### 1 Preamble
 
-1.1 These Software Licensing Terms (‚ÄúTerms‚Äù) provide the terms and conditions
+1.1 These Software Licensing Terms (ìTermsî) provide the terms and conditions
 that govern usage of the Software Gitpod Self-Hosted Free Edition in source and
-binary form (‚ÄúSoftware‚Äù). The Software is provided by Gitpod GmbH, Am
-Germaniahafen 1, 24143 Kiel (‚ÄúGitpod‚Äù). By downloading or using to the
+binary form (ìSoftwareî). The Software is provided by Gitpod GmbH, Am
+Germaniahafen 1, 24143 Kiel (ìGitpodî). By downloading or using to the
 Software, you agree to be bound by the following Terms.
 
 ### 2  Scope of Terms
@@ -51,7 +51,7 @@ unmodified software without charging a fee for it.
 
 4.2 Subject to the conditions of these Terms, you may modify the Software,
 including patching it. You agree that Gitpod retains all right, title and
-interest in and to all such modifications and patches (‚ÄúModifications‚Äù). You may
+interest in and to all such modifications and patches (ìModificationsî). You may
 only use, reproduce and execute the Modifications for internal purposes in
 accordance with these Terms. You may not distribute Modifications to any third
 party. Nonetheless, you may make such modifications publicly available as fork
@@ -95,7 +95,7 @@ release.
 
 ### 6 Warranty and Liability
 
-6.1 THE SOFTWARE IS PROVIDED FREE OF CHARGE ON AN ‚ÄúAS IS‚Äù BASIS, WITHOUT
+6.1 THE SOFTWARE IS PROVIDED FREE OF CHARGE ON AN ìAS ISî BASIS, WITHOUT
 WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND
 NON-INFRINGEMENT.
@@ -112,8 +112,8 @@ INTENT OR LAWS ON PRODUCT LIABILITY.
 ### 7 Third-party Components
 
 7.1 The Software contains third-party components including open source software
-(‚ÄúThird-Party Components‚Äú). Parts of such Third-Party Components are subject to
-deviating license terms (‚ÄúThird-Party License Terms‚Äú). A list of such
+(ìThird-Party Componentsì). Parts of such Third-Party Components are subject to
+deviating license terms (ìThird-Party License Termsì). A list of such
 Third-Party Components and its respective Third-Party License Terms are
 available via the files License.third-party.npm.txt and
 License.third-party.go.txt. No stipulation in these Terms is intended to impose

@@ -10,13 +10,13 @@ spdx_license_key: LicenseRef-scancode-broadcom-linux-firmware
 
 SOFTWARE LICENSE AGREEMENT
 
-The accompanying software in binary code form (‚ÄúSoftware‚Äù), is licensed to you,
+The accompanying software in binary code form (ìSoftwareî), is licensed to you,
 or, if you are accepting on behalf of an entity, the entity and its affiliates
-exercising rights hereunder (‚ÄúLicensee‚Äù) subject to the terms of this software
-license agreement (‚ÄúAgreement‚Äù), unless Licensee and Broadcom Corporation
-(‚ÄúBroadcom‚Äù) execute a separate written software license agreement governing
+exercising rights hereunder (ìLicenseeî) subject to the terms of this software
+license agreement (ìAgreementî), unless Licensee and Broadcom Corporation
+(ìBroadcomî) execute a separate written software license agreement governing
 use of the Software. ANY USE, REPRODUCTION, OR DISTRIBUTION OF THE SOFTWARE
-CONSTITUTES LICENSEE‚ÄôS ACCEPTANCE OF THIS AGREEMENT.
+CONSTITUTES LICENSEEíS ACCEPTANCE OF THIS AGREEMENT.
 
 1.	License. Subject to the terms and conditions of this Agreement,
 Broadcom hereby grants to Licensee a limited, non-exclusive, non-transferable,
@@ -36,7 +36,7 @@ except as provided in this Agreement; (ii) attempt to modify in any way,
 reverse engineer, decompile or disassemble any portion of the Software; or
 (iii) use the Software or other material in violation of any applicable law or
 regulation, including but not limited to any regulatory agency. This Agreement
-shall automatically terminate upon Licensee‚Äôs failure to comply with any of the
+shall automatically terminate upon Licenseeís failure to comply with any of the
 terms of this Agreement. In such event, Licensee will destroy all copies of the
 Software and its component parts.
 
@@ -47,7 +47,7 @@ covenants that it will not assert any claim that the Software created by or for
 Broadcom infringe any intellectual property right owned or controlled by
 Licensee.
 
-4.     	Disclaimer. THE SOFTWARE IS OFFERED ‚ÄúAS IS,‚Äù AND BROADCOM PROVIDES AND
+4.     	Disclaimer. THE SOFTWARE IS OFFERED ìAS IS,î AND BROADCOM PROVIDES AND
 GRANTS AND LICENSEE RECEIVES NO SUPPORT AND NO WARRANTIES OF ANY KIND, EXPRESS
 OR IMPLIED, BY STATUTE, COMMUNICATION OR CONDUCT WITH LICENSEE, OR OTHERWISE.
 BROADCOM SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY,

@@ -7,7 +7,7 @@ ignorable_urls:
 
 <licenses>
     <license>
-        <name>{{Eclipse Foundation Specification License â€“ v1.0}}</name>
+        <name>{{Eclipse Foundation Specification License – v1.0}}</name>
         <url>{{https://www.eclipse.org/legal/efsl.php}}</url>
         <distribution>repo</distribution>
     </license>

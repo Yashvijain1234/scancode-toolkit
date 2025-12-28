@@ -184,12 +184,12 @@ CockroachDB Community License Agreement
 
     (b) Overdue Payments and Taxes. Overdue payments are subject to a service
         charge equal to the lesser of 1.5% per month or the maximum legal
-        interest rate allowed by law, and You shall pay all Cockroach Labsâ€™
-        reasonable costs of collection, including court costs and attorneysâ€™
+        interest rate allowed by law, and You shall pay all Cockroach Labs’
+        reasonable costs of collection, including court costs and attorneys’
         fees.  Fees are stated and payable in U.S. dollars and are exclusive of
         all sales, use, value added and similar taxes, duties, withholdings and
         other governmental assessments (but excluding taxes based on Cockroach
-        Labsâ€™ income) that may be levied on the transactions contemplated by
+        Labs’ income) that may be levied on the transactions contemplated by
         this Agreement in any jurisdiction, all of which are Your responsibility
         unless you have provided Cockroach Labs with a valid tax-exempt
         certificate.
@@ -199,10 +199,10 @@ CockroachDB Community License Agreement
         Enterprise Edition or another use-based unit of measurement, You must
         maintain complete and accurate records with respect to Your use of
         CockroachDB Enterprise Edition and will provide such records to
-        Cockroach Labs for inspection or audit upon Cockroach Labsâ€™ reasonable
+        Cockroach Labs for inspection or audit upon Cockroach Labs’ reasonable
         request.  If an inspection or audit uncovers additional usage by You for
         which fees are owed under this Agreement, then You shall pay for such
-        additional usage at Cockroach Labsâ€™ then-current rates.
+        additional usage at Cockroach Labs’ then-current rates.
 
   5. Trial License.  If You have signed up for a trial or evaluation of
      CockroachDB Enterprise Edition, Your License to CockroachDB Enterprise
@@ -287,7 +287,7 @@ CockroachDB Community License Agreement
         under this Agreement will be performed in a workmanlike manner, in
         accordance with general industry standards.
 
-    (b) Exclusions.  Cockroach Labsâ€™ warranties in this Section 9 do not extend
+    (b) Exclusions.  Cockroach Labs’ warranties in this Section 9 do not extend
         to problems that result from: (i) Your failure to implement updates
         issued by Cockroach Labs during the warranty period; (ii) any
         alterations or additions (including Enterprise Derivative Works and
@@ -303,7 +303,7 @@ CockroachDB Community License Agreement
         or re-perform the applicable Works or services or refund a portion of
         fees previously paid to Cockroach Labs that are associated with the
         defective Works or services. This is Your exclusive remedy, and
-        Cockroach Labsâ€™ sole liability, arising in connection with the limited
+        Cockroach Labs’ sole liability, arising in connection with the limited
         warranties herein.
 
   10. Disclaimer of Warranty.  Except as set out in Section 9, unless required
@@ -322,7 +322,7 @@ CockroachDB Community License Agreement
 
     (a) Indemnity.  Cockroach Labs will defend, indemnify and hold You harmless
         against any third party claims, liabilities or expenses incurred
-        (including reasonable attorneysâ€™ fees), as well as amounts finally
+        (including reasonable attorneys’ fees), as well as amounts finally
         awarded in a settlement or a non-appealable judgement by a court
         ("Losses"), to the extent arising from any claim or allegation by a
         third party that CockroachDB Enterprise Edition infringes or
@@ -331,7 +331,7 @@ CockroachDB Community License Agreement
         prompt written notice of any such claim or allegation; (ii) sole control
         of the defense and settlement thereof; and (iii) reasonable cooperation
         and assistance in such defense or settlement.  If any Work within
-        CockroachDB Enterprise Edition becomes or, in Cockroach Labsâ€™ opinion,
+        CockroachDB Enterprise Edition becomes or, in Cockroach Labs’ opinion,
         is likely to become, the subject of an injunction, Cockroach Labs may,
         at its option, (A) procure for You the right to continue using such
         Work, (B) replace or modify such Work so that it becomes non-infringing
@@ -410,9 +410,9 @@ CockroachDB Community License Agreement
         to conflicts of laws provisions thereof, and without regard to the
         Uniform Computer Information Transactions Act.
 
-    (e) Attorneysâ€™ Fees.  In any action or proceeding to enforce rights under
+    (e) Attorneys’ Fees.  In any action or proceeding to enforce rights under
         this Agreement, the prevailing party shall be entitled to recover its
-        costs, expenses and attorneysâ€™ fees.
+        costs, expenses and attorneys’ fees.
 
     (f) Severability.  If any provision of this Agreement is held to be invalid,
         illegal or unenforceable in any respect, that provision shall be limited

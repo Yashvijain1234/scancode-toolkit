@@ -7,8 +7,8 @@ owner: Indiana University
 homepage_url: https://github.com/stan-dev/math/blob/develop/lib/boost_1.84.0/tools/boostbook/xsl/caramel/LICENSE
 spdx_license_key: LicenseRef-scancode-caramel-1.0
 ignorable_copyrights:
-    - Copyright 2002-2003, Trustees of Indiana University
     - Copyright 2000-2001, University of Notre Dame
+    - Copyright 2002-2003, Trustees of Indiana University
 ignorable_holders:
     - Trustees of Indiana University
     - University of Notre Dame

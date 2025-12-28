@@ -9,7 +9,7 @@ spdx_license_key: CAL-1.0
 other_urls:
     - http://cryptographicautonomylicense.com/license-text.html
 standard_notice: |
-    This Cryptographic Autonomy License (the ‚ÄúLicense‚Äù) applies to any Work
+    This Cryptographic Autonomy License (the ìLicenseî) applies to any Work
     whose owner has marked it with any of the following notices, or a similar
     demonstration of intent:
     SPDX-License-Identifier: CAL-1.0
@@ -153,7 +153,7 @@ Code corresponding to the modifications in the Modified Work must be
 provided to the Recipient either a) under this License, or b) under a
 Compatible Open Source License.
 
-A ‚ÄúCompatible Open Source License‚Äù means a license accepted by the Open Source 
+A ìCompatible Open Source Licenseî means a license accepted by the Open Source 
 Initiative that allows object code created using both Source Code provided under 
 this License and Source Code provided under the other open source license to be 
 distributed together as a single work.

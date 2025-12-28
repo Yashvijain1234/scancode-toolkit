@@ -2,9 +2,9 @@
 key: bsd-2-clause-pkgconf-disclaimer
 short_name: BSD 2-Clause pkgconf disclaimer variant
 name: BSD 2-Clause pkgconf disclaimer variant
-spdx_license_key: BSD-2-Clause-pkgconf-disclaimer
 category: Permissive
 owner: Audacious Project
+spdx_license_key: BSD-2-Clause-pkgconf-disclaimer
 other_urls:
     - https://github.com/audacious-media-player/audacious/blob/master/src/audacious/main.cc
     - https://github.com/audacious-media-player/audacious/blob/master/COPYING
@@ -20,6 +20,6 @@ modification, are permitted provided that the following conditions are met:
    this list of conditions, and the following disclaimer in the
    documentation provided with the distribution.
 
-This software is provided ‚Äúas is‚Äù and without any warranty, express or
+This software is provided ìas isî and without any warranty, express or
 implied.  In no event shall the authors be liable for any damages arising
 from the use of this software.

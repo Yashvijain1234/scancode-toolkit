@@ -20,7 +20,7 @@ By using the Play Core Software Development Kit, you agree to these terms in add
 
 For purposes of these terms, "APIs" means Google's APIs, other developer services, and associated software, including any Redistributable Code.
 
-‚ÄúRedistributable Code‚Äù means Google-provided object code or header files that call the APIs.
+ìRedistributable Codeî means Google-provided object code or header files that call the APIs.
 
 Subject to these terms and the terms of the API ToS, you may copy and distribute Redistributable Code solely for inclusion as part of your API Client. Google and its licensors own all right, title and interest, including any and all intellectual property and other proprietary rights, in and to Redistributable Code. You will not modify, translate, or create derivative works of Redistributable Code.
 

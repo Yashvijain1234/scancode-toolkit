@@ -9,11 +9,11 @@ spdx_license_key: LicenseRef-scancode-allen-institute-software-2018
 other_urls:
     - https://github.com/AllenInstitute
 standard_notice: |
-    Allen Institute Software License â€“ This software license is the 2-clause
+    Allen Institute Software License – This software license is the 2-clause
     BSD license plus clause a third clause that
     prohibits redistribution for commercial purposes without further
     permission.
-    Copyright Â© 2018. Allen Institute. All rights reserved.
+    Copyright © 2018. Allen Institute. All rights reserved.
 ignorable_emails:
     - terms@alleninstitute.org
 ---
@@ -27,7 +27,7 @@ disclaimer.
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following
 disclaimer in the documentation and/or other materials provided with the distribution.
 
-3. Redistributions for commercial purposes are not permitted without the Allen Instituteâ€™s written permission. For
+3. Redistributions for commercial purposes are not permitted without the Allen Institute’s written permission. For
 purposes of this license, commercial purposes is the incorporation of the Allen Institute's software into anything for
 which you will charge fees or other compensation. Contact terms@alleninstitute.org for commercial licensing
 opportunities.

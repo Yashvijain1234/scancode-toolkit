@@ -18,16 +18,16 @@ Open Hardware designs.
 
 1. Definitions
 In this Licence, the following terms have the following meanings:
-‚ÄúLicence‚Äù means this CERN OHL.
-‚ÄúDocumentation‚Äù means schematic diagrams, designs, circuit or circuit board layouts, mechanical
+ìLicenceî means this CERN OHL.
+ìDocumentationî means schematic diagrams, designs, circuit or circuit board layouts, mechanical
 drawings, flow charts and descriptive text, and other explanatory material that is explicitly stated as
 being made available under the conditions of this Licence. The Documentation may be in any
 medium, including but not limited to computer files and representations on paper, film, or any other
 media.
-‚ÄúProduct‚Äù means either an entire, or any part of a, device built using the Documentation or the
+ìProductî means either an entire, or any part of a, device built using the Documentation or the
 modified Documentation.
-‚ÄúLicensee‚Äù means any natural or legal person exercising rights under this Licence.
-‚ÄúLicensor‚Äù means any natural or legal person that creates or modifies Documentation and
+ìLicenseeî means any natural or legal person exercising rights under this Licence.
+ìLicensorî means any natural or legal person that creates or modifies Documentation and
 subsequently communicates to the public and/ or distributes the resulting Documentation under the
 terms and conditions of this Licence.
 
@@ -105,7 +105,7 @@ dates of production of Products it has (had) manufactured.
 5. Warranty and liability
 5.1
 
-DISCLAIMER ‚Äì The Documentation and any modified Documentation are provided "as is" and
+DISCLAIMER ñ The Documentation and any modified Documentation are provided "as is" and
 any express or implied warranties, including, but not limited to, implied warranties of
 merchantability, of satisfactory quality, and fitness for a particular purpose or use are
 disclaimed in respect of the Documentation, the modified Documentation or any Product. The
@@ -117,7 +117,7 @@ condition for the grant of any rights granted under this Licence. The Licensee w
 does not act in a consumer capacity.
 5.2
 
-LIMITATION OF LIABILITY ‚Äì The Licensor shall have no liability for direct, indirect, special,
+LIMITATION OF LIABILITY ñ The Licensor shall have no liability for direct, indirect, special,
 incidental, consequential, exemplary, punitive or other damages of any character including,
 without limitation, procurement of substitute goods or services, loss of use, data or profits, or
 business interruption, however caused and on any theory of contract, warranty, tort
@@ -159,7 +159,7 @@ continue to apply.
 6.5
 
 In respect of any dispute with respect to this Licence involving CERN, and always without
-prejudice to CERN‚Äôs status as an Intergovernmental Organization, reference shall be made to
+prejudice to CERNís status as an Intergovernmental Organization, reference shall be made to
 Swiss substantive law where a matter is not specifically covered by this Licence, or a provision
 of this Licence is ambiguous or unclear. Such reference shall be made exclusively for the
 matter or provision(s) concerned, and shall in no event apply to the other provisions of this

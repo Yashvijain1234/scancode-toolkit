@@ -107,7 +107,7 @@ class LicenseScanner(ScanPlugin):
             help_group=SCAN_OPTIONS_GROUP,
         ),
 
-        PluggableCommandLineOption(('--license-text-diagnostics',),
+        PluggableCommandLineOption(('--license-text-diagnostics', '--matched-text-diagnostics'),
             is_flag=True,
             default=False,
             required_options=['license_text'],

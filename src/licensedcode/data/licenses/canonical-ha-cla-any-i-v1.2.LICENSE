@@ -16,15 +16,15 @@ ignorable_urls:
 Canonical Individual Contributor License Agreement
 
 1. Definitions
-‚ÄúYou‚Äù means the individual who Submits a Contribution to Us.
-‚ÄúContribution‚Äù means any work of authorship that is Submitted by You to Us in which You own or assert ownership of the Copyright. If You do not own the Copyright in the entire work of authorship, please follow the instructions in www.canonical.com/contributors.
-‚ÄúCopyright‚Äù means all rights protecting works of authorship owned or controlled by You, including copyright, moral and neighboring rights, as appropriate, for the full term of their existence including any extensions by You.
-‚ÄúMaterial‚Äù means the work of authorship which is made available by Us to third parties. When this Agreement covers more than one software project, the Material means the work of authorship to which the Contribution was Submitted. After You Submit the Contribution, it may be included in the Material.
-‚ÄúSubmit‚Äù means any form of electronic, verbal, or written communication sent to Us or our representatives, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us for the purpose of discussing and improving the Material, but excluding
-communication that is conspicuously marked or otherwise designated in writing by You as ‚ÄúNot a Contribution.‚Äù
-‚ÄúSubmission Date‚Äù means the date on which You Submit a Contribution to Us.
-‚ÄúEffective Date‚Äù means the date You execute this Agreement or the date You first Submit a Contribution to Us, whichever is earlier.
-‚ÄúMedia‚Äù means any portion of a Contribution which is not software.
+ìYouî means the individual who Submits a Contribution to Us.
+ìContributionî means any work of authorship that is Submitted by You to Us in which You own or assert ownership of the Copyright. If You do not own the Copyright in the entire work of authorship, please follow the instructions in www.canonical.com/contributors.
+ìCopyrightî means all rights protecting works of authorship owned or controlled by You, including copyright, moral and neighboring rights, as appropriate, for the full term of their existence including any extensions by You.
+ìMaterialî means the work of authorship which is made available by Us to third parties. When this Agreement covers more than one software project, the Material means the work of authorship to which the Contribution was Submitted. After You Submit the Contribution, it may be included in the Material.
+ìSubmitî means any form of electronic, verbal, or written communication sent to Us or our representatives, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us for the purpose of discussing and improving the Material, but excluding
+communication that is conspicuously marked or otherwise designated in writing by You as ìNot a Contribution.î
+ìSubmission Dateî means the date on which You Submit a Contribution to Us.
+ìEffective Dateî means the date You execute this Agreement or the date You first Submit a Contribution to Us, whichever is earlier.
+ìMediaî means any portion of a Contribution which is not software.
 
 2. Grant of Rights
 2.1 Copyright License
@@ -55,7 +55,7 @@ EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 3, THE CONTRIBUTION IS PROVIDED "AS
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL YOU BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL AND EXEMPLARY DAMAGES ARISING OUT OF THIS AGREEMENT REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
 
 6. Miscellaneous
-6.1 This Agreement will be governed by and construed in accordance with the laws of England excluding its conflicts of law provisions. Under certain circumstances, the governing law in this section might be superseded by the United Nations Convention on Contracts for the International Sale of Goods (‚ÄúUN Convention‚Äù) and the parties intend to avoid the application of the UN Convention to this Agreement and, thus, exclude the application of the UN Convention in its entirety to this Agreement.
+6.1 This Agreement will be governed by and construed in accordance with the laws of England excluding its conflicts of law provisions. Under certain circumstances, the governing law in this section might be superseded by the United Nations Convention on Contracts for the International Sale of Goods (ìUN Conventionî) and the parties intend to avoid the application of the UN Convention to this Agreement and, thus, exclude the application of the UN Convention in its entirety to this Agreement.
 6.2 This Agreement sets out the entire agreement between You and Us for Your Contributions to Us and overrides all other agreements or understandings.
 6.3 If You or We assign the rights or obligations received through this Agreement to a third party, as a condition of
 the assignment, that third party must agree in writing to abide by all the rights and obligations in the Agreement.

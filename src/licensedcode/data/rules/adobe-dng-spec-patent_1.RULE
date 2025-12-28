@@ -20,13 +20,13 @@ hereby grants all individuals and organizations the worldwide,
 royalty-free, nontransferable, nonexclusive right under all Essential
 Claims to make, have made, use, sell, import, and distribute Compliant
 Implementations.
-‚ÄúCompliant Implementation‚Äù means a portion of a software or hardware
+ìCompliant Implementationî means a portion of a software or hardware
 product that reads or writes computer files compliant with the DNG
 Specification.
-‚ÄúDNG Specification‚Äù means any version of the Adobe DNG Specification
+ìDNG Specificationî means any version of the Adobe DNG Specification
 made publicly available by Adobe (for example, version 1.0.0.0 dated
 September 2004).
-‚ÄúEssential Claim‚Äù means a claim of a patent, whenever and wherever
+ìEssential Claimî means a claim of a patent, whenever and wherever
 issued, that Adobe has the right to license without payment of royalty
 or other fee that is unavoidably infringed by implementation of the
 DNG Specification. A claim is unavoidably infringed by the DNG
@@ -50,7 +50,7 @@ Specification.
 Any Compliant Implementation distributed under this license must
 include the following notice displayed in a prominent manner within
 its source code and documentation: "This product includes DNG
-technology under license by Adobe Systems Incorporated.‚Äù
+technology under license by Adobe Systems Incorporated.î
 No warranty
 The rights granted herein are provided on an as-is basis without
 warranty of any kind, including warranty of title or noninfringement.

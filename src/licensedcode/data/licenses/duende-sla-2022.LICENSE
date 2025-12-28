@@ -14,23 +14,23 @@ ignorable_urls:
     - https://duendesoftware.com/products/support
 ---
 
-Duende Software, Inc. ‚Äì Rev. 01/2022
-DUENDE‚Ñ¢ SOFTWARE LICENSE AGREEMENT
+Duende Software, Inc. ñ Rev. 01/2022
+DUENDEô SOFTWARE LICENSE AGREEMENT
 
-This Software License Agreement (‚ÄúAgreement‚Äù) is a legal agreement between you (either
-as an individual or a single entity (‚ÄúYou‚Äù)) and Duende Software, Inc. (‚ÄúLicensor‚Äù) for certain
-software application libraries as set forth on the quote or invoice (‚ÄúApplications‚Äù) provided to
-You by Licensor (‚ÄúQuote‚Äù), associated ‚Äúonline‚Äù, electronic or hard copy user documentation,
+This Software License Agreement (ìAgreementî) is a legal agreement between you (either
+as an individual or a single entity (ìYouî)) and Duende Software, Inc. (ìLicensorî) for certain
+software application libraries as set forth on the quote or invoice (ìApplicationsî) provided to
+You by Licensor (ìQuoteî), associated ìonlineî, electronic or hard copy user documentation,
 and any upgrades, modified versions, bug fixes, additions and improvements thereof that
 Licensor may make available during the Term of the Agreement (collectively referred to as
-the ‚ÄúSoftware‚Äù).
+the ìSoftwareî).
 
-References to ‚ÄúYou‚Äù herein shall refer to You, and/or the entity on whose behalf You are using
+References to ìYouî herein shall refer to You, and/or the entity on whose behalf You are using
 the Software, and all individual developer-users of the Software on behalf of such entity.
 
 Please note: this Agreement is not intended for affiliate use outside the scope of this
 Agreement. If you intend to purchase the software for use by Your Affiliates please contact
-licensor for the appropriate fees and license before proceeding. ‚ÄúAffiliate‚Äù means any parent
+licensor for the appropriate fees and license before proceeding. ìAffiliateî means any parent
 or subsidiary entity that controls or is controlled by You. "Control" means the direct or indirect
 ownership of more than fifty percent (50%) of the voting securities of an entity or possession
 of the right to vote more than fifty percent (50%) of the voting interest in the ordinary direction
@@ -38,9 +38,9 @@ of the entity's affairs. An Affiliate shall only be considered such for so long 
 exists.
 
 If the Software is acquired by or on behalf of a unit or agency of the U.S. Government
-(the ‚ÄúGovernment‚Äù), the Government agrees that the Software is ‚Äúcommercial
-computer software‚Äù or ‚Äúcommercial computer software documentation‚Äù and that,
-absent a written agreement to the contrary, the Government‚Äôs rights with respect to
+(the ìGovernmentî), the Government agrees that the Software is ìcommercial
+computer softwareî or ìcommercial computer software documentationî and that,
+absent a written agreement to the contrary, the Governmentís rights with respect to
 the Software is limited by the terms of this Agreement, pursuant to applicable FAR
 and/or DFARS and successor regulations.
 
@@ -109,7 +109,7 @@ restrictions set forth in this Agreement.
 
 A. Licensor will only provide support in accordance with the support guidelines
 posted at https://duendesoftware.com/products/support. Licensor will use
-Duende Software, Inc. ‚Äì Rev. 01/2022 Page 3 of 5
+Duende Software, Inc. ñ Rev. 01/2022 Page 3 of 5
 commercially reasonable efforts to resolve all reasonable support requests, but
 makes no guarantee that all requests can be finally resolved.
 
@@ -128,7 +128,7 @@ provided herein.
 5. EXPORT CONTROLS. You represent and warrant that the Software will not be
 shipped, transferred or exported into any country or used in any manner prohibited by
 the United States Export Administration Act or any other export laws, restrictions or
-regulations (collectively, ‚ÄúExport Laws‚Äù). In addition, if the Software is identified as
+regulations (collectively, ìExport Lawsî). In addition, if the Software is identified as
 export controlled items under the Export Laws, You represent and warrant that You
 are not a citizen, or otherwise located within, an embargoed nation (including without
 limitation Cuba, Iran, North Korea, Sudan, or Syria) and that You are not otherwise
@@ -149,20 +149,20 @@ written agreement with Licensor authorizing You to do so.
 
 8. FEEDBACK. If You provide Licensor with any comments, bug reports, feedback,
 enhancements, or modifications proposed or suggested by You for the Software
-(‚ÄúFeedback‚Äù), such Feedback is provided on a non-confidential basis (notwithstanding
+(ìFeedbackî), such Feedback is provided on a non-confidential basis (notwithstanding
 any notice to the contrary You may include in any accompanying communication), and
 Licensor shall have the right to use such Feedback at its discretion, including, but not
 limited to the incorporation of such suggested changes into future releases of the
 Software. You hereby grant Licensor a perpetual, irrevocable, transferable,
 sublicensable, nonexclusive license under all rights necessary to incorporate and use
 your Feedback for any purpose, including to make and sell any products and services.
-Duende Software, Inc. ‚Äì Rev. 01/2022 Page 4 of 5
+Duende Software, Inc. ñ Rev. 01/2022 Page 4 of 5
 
 9. TERM AND TERMINATION. This Agreement will remain in effect for the time
 frame specified in your Quote issued to you by Licensor and commences on the
 date You: (i) paid the applicable license fee for the Software; or (ii) downloaded
 the Software as a non-production user. However, Licensor may terminate this
-Agreement upon 30 days‚Äô prior written notice allowing You the opportunity to cure, for
+Agreement upon 30 daysí prior written notice allowing You the opportunity to cure, for
 any actual or suspected misuse or abuse by You of the Software or any material
 violation of this Agreement. You may also choose to terminate this Agreement for any
 reason by ceasing all use of the Software. Following any termination of this Agreement,
@@ -172,14 +172,14 @@ copies thereof, and be able to show evidence of such cessation to Licensor upon
 request. The terms of this Agreement that expressly are to, or by implication ought to,
 survive, will survive this Agreement. Notwithstanding the foregoing, should Licensor
 completely cease to do business (excluding transactions in connection with a sale of
-all or substantially all of Licensor‚Äôs assets or stock, or in connection with a merger or
+all or substantially all of Licensorís assets or stock, or in connection with a merger or
 other corporate reorganization), the term of this Agreement shall be perpetual as to
 Your custom application previously deployed by You prior to the date of such cessation
 of business and without the need for any further payments in accordance with all
 limitations and restrictions in this Agreement.
 
 10. WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY.
-The Software and any support are provided on an ‚Äúas is‚Äù basis, without warranty
+The Software and any support are provided on an ìas isî basis, without warranty
 of any kind. To the maximum extent permitted by applicable law, Licensor
 disclaims all warranties and conditions, express, implied, statutory or otherwise,
 including but not limited to implied warranties or conditions of fitness for a
@@ -188,7 +188,7 @@ Under no circumstances will Licensor be liable for any consequential, special,
 indirect, incidental or punitive damages whatsoever arising out of the use or
 inability to use the Software, even if Licensor has been advised of the possibility
 of such damages, and notwithstanding any failure of essential purpose of any
-limited remedy. In no event will Licensor‚Äôs aggregate liability for damages arising
+limited remedy. In no event will Licensorís aggregate liability for damages arising
 out of this Agreement or the terms exceed the amount paid by you for the
 Software. Some jurisdictions do not allow limitations on implied warranties or
 the exclusion or limitation of liability for consequential or incidental damages,
@@ -198,9 +198,9 @@ under applicable law.
 
 11. INDEMNITY. You agree to indemnify Licensor and its affiliates, officers, directors,
 suppliers, licensors, and other customers from and against any and all liability and
-costs (including reasonable attorneys‚Äô fees) incurred by such parties in connection with
+costs (including reasonable attorneysí fees) incurred by such parties in connection with
 or arising out of your use or misuse of the Software.
-Duende Software, Inc. ‚Äì Rev. 01/2022 Page 5 of 5
+Duende Software, Inc. ñ Rev. 01/2022 Page 5 of 5
 
 12. GOVERNING LAW; VENUE. This Agreement shall be governed by and interpreted
 in accordance with the laws of the State of New York, USA, excluding its law on conflict
@@ -213,7 +213,7 @@ A. You will be responsible for the payment of all taxes, duties, levies, and oth
 including, but not limited to sales, use, gross receipts, excise, VAT, ad valorem and
 any other taxes, any withholdings or deductions, import and custom taxes, any duties,
 or any other charges imposed by any taxing authority (excluding any taxes based on
-the Licensor‚Äôs income) with respect to the fees payable to Licensor in connection with
+the Licensorís income) with respect to the fees payable to Licensor in connection with
 this Agreement.
 
 B. This Agreement contains the entire agreement between You and Licensor,
@@ -231,7 +231,7 @@ unenforceable in any other jurisdiction.
 D. You may provide Licensor with a valid purchase order; provided, however,
 purchase orders are to be used solely for your accounting purposes and any
 terms and conditions contained therein shall be deemed null and void with
-respect to the parties‚Äô relationship and this License Agreement. Any such
+respect to the partiesí relationship and this License Agreement. Any such
 purchase order provided to Licensor shall in no way relieve you of any obligation
 entered into pursuant to this License Agreement including, but not limited to,
 your obligation to pay Licensor the appropriate license fees.

@@ -5,7 +5,6 @@ name: Any OSI License
 category: Unstated License
 owner: Unspecified
 spdx_license_key: any-OSI
-minimum_coverage: 100
 other_urls:
     - http://www.opensource.org/licenses/alphabetical
     - https://metacpan.org/pod/Exporter::Tidy#LICENSE

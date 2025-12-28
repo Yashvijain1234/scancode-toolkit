@@ -24,11 +24,11 @@ Redistributions of this software, in whole or in part, with or without modificat
 
 The user documentation, if any, included with a redistribution, must include the following notice:
 
-‚ÄúThis product includes software developed by Members of the Geant4 Collaboration (http://cern.ch/geant4).‚Äù
+ìThis product includes software developed by Members of the Geant4 Collaboration (http://cern.ch/geant4).î
 
 If that is where third-party acknowledgments normally appear, this acknowledgment must be reproduced in the modified version of this software itself.
 
-The names ‚ÄúGeant4‚Äù and ‚ÄúThe Geant4 toolkit‚Äù may not be used to endorse or promote software, or products derived therefrom, except with prior written permission by license@geant4.org. If this software is redistributed in modified form, the name and reference of the modified version must be clearly distinguishable from that of this software.
+The names ìGeant4î and ìThe Geant4 toolkitî may not be used to endorse or promote software, or products derived therefrom, except with prior written permission by license@geant4.org. If this software is redistributed in modified form, the name and reference of the modified version must be clearly distinguishable from that of this software.
 
 You are under no obligation to provide anyone with any modifications of this software that you may develop, including but not limited to bug fixes, patches, upgrades or other enhancements or derivatives of the features, functionality or performance of this software. However, if you publish or distribute your modifications without contemporaneously requiring users to enter into a separate written license agreement, then you are deemed to have granted all Members and all Copyright Holders of the Geant4 Collaboration a license to your modifications, including modifications protected by any patent owned by you, under the conditions of this license.
 
@@ -36,7 +36,7 @@ You may not include this software in whole or in part in any patent or patent ap
 
 DISCLAIMER
 
-THIS SOFTWARE IS PROVIDED BY THE MEMBERS AND COPYRIGHT HOLDERS OF THE GEANT4 COLLABORATION AND CONTRIBUTORS ‚ÄúAS IS‚Äù AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE OR USE ARE DISCLAIMED. THE MEMBERS OF THE GEANT4 COLLABORATION AND CONTRIBUTORS MAKE NO REPRESENTATION THAT THE SOFTWARE AND MODIFICATIONS THEREOF, WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADE SECRET OR OTHER PROPRIETARY RIGHT.
+THIS SOFTWARE IS PROVIDED BY THE MEMBERS AND COPYRIGHT HOLDERS OF THE GEANT4 COLLABORATION AND CONTRIBUTORS ìAS ISî AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, OF SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE OR USE ARE DISCLAIMED. THE MEMBERS OF THE GEANT4 COLLABORATION AND CONTRIBUTORS MAKE NO REPRESENTATION THAT THE SOFTWARE AND MODIFICATIONS THEREOF, WILL NOT INFRINGE ANY PATENT, COPYRIGHT, TRADE SECRET OR OTHER PROPRIETARY RIGHT.
 
 LIMITATION OF LIABILITY
 

@@ -27,10 +27,10 @@ to comply with regulatory needs. Contact support@adcolony.com for more details.
 
 SDK License and Publisher Terms
 
-These AdColony SDK License and Publisher Terms (this ‚ÄúAgreement‚Äù) is made
-available by AdColony, Inc. (‚ÄúAdColony‚Äù). By downloading or using the AdColony
+These AdColony SDK License and Publisher Terms (this ìAgreementî) is made
+available by AdColony, Inc. (ìAdColonyî). By downloading or using the AdColony
 SDK, you and any company, entity, or organization on behalf of which you are
-accepting this Agreement (‚ÄúDeveloper‚Äù) hereby agrees to be bound by all terms
+accepting this Agreement (ìDeveloperî) hereby agrees to be bound by all terms
 and conditions of this Agreement, and you represent and warrant that you are an
 authorized representative of Developer with the authority to bind Developer to
 this Agreement. IF YOU DO NOT AGREE TO ALL TERMS AND CONDITIONS OF THIS
@@ -38,33 +38,33 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
 
 1. Definitions
 
-    1. ‚ÄúAdvertisers‚Äù means third-party advertisers.
+    1. ìAdvertisersî means third-party advertisers.
 
-    2. ‚ÄúDeveloper Apps‚Äù means the mobile applications owned and/or controlled by
+    2. ìDeveloper Appsî means the mobile applications owned and/or controlled by
     Developer, including all content images, music and text contained therein,
     that Developer wishes to use with the AdColony SDK and AdColony Platform.
 
-    3. ‚ÄúI/O‚Äù means a fully executed insertion order containing advertising
+    3. ìI/Oî means a fully executed insertion order containing advertising
     campaign details for user acquisitions and campaigns run by Developer on
-    AdColony‚Äôs Platform.
+    AdColonyís Platform.
 
-    4. ‚ÄúAdColony Ads‚Äù means video, playable, display, or any type of media
+    4. ìAdColony Adsî means video, playable, display, or any type of media
     advertisements, sourced by or on behalf of AdColony, which are routed and/or
     served by the AdColony Platform to the Developer Apps.
     
-    5. ‚ÄúAdColony Platform‚Äù means AdColony‚Äôs advertising system or network, which
+    5. ìAdColony Platformî means AdColonyís advertising system or network, which
     supports advertisement insertion within mobile applications, and related
     advertisement reporting tools.
     
-    6. ‚ÄúAdColony SDK‚Äù means the software development kit and any other software
+    6. ìAdColony SDKî means the software development kit and any other software
     and documentation that may be provided by AdColony to Developer with the
     software development kit, including any updates thereto.
     
-    7. ‚ÄúPersonally Identifiable Information‚Äù or ‚ÄúPII‚Äù means information that
+    7. ìPersonally Identifiable Informationî or ìPIIî means information that
     specifically identifies or locates a particular person or entity such as
     name, postal address, telephone number, and email address.
     
-    8. ‚ÄúPseudonymous Identifiers‚Äù means data that is linked or reasonably
+    8. ìPseudonymous Identifiersî means data that is linked or reasonably
     linkable to a particular computer or device resettable device identifiers
     such as Google Advertising ID, Apple Identifier for Advertisers, IP address,
     or other similar identifiers. Pseudoymous Identifiers may not be utilized to
@@ -76,7 +76,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
     AdColony grants Developer a non-exclusive, non-transferable, non-
     sublicenseable, worldwide license to: (a) integrate the AdColony SDK with
     Developer Apps solely for internal use; (b) use, reproduce and distribute
-    certain portions of the AdColony SDK as required for Developer‚Äôs
+    certain portions of the AdColony SDK as required for Developerís
     distribution of Developer Apps, solely as enabled by, and in accordance with
     documentation provided by AdColony; and (c) use the AdColony SDK and
     AdColony Platform to have advertisements, including AdColony Ads,
@@ -105,7 +105,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
     3. Intellectual Property. All ownership rights, title, and interest in and
     to the AdColony SDK and AdColony Platform, including all intellectual
     property rights therein, as such may be modified, upgraded, or enhanced from
-    time to time (‚ÄúAdColony Property‚Äù) will remain and belong exclusively to
+    time to time (ìAdColony Propertyî) will remain and belong exclusively to
     AdColony. AdColony reserves all rights not expressly granted to Developer
     herein. Developer shall retain all ownership rights, title and interest in
     and to the Developer Apps, including all intellectual property rights
@@ -117,13 +117,13 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         the right to sell, and have sold, advertisement inventory in the
         Developer Apps, and to insert AdColony Ads within such inventory. In
         addition, Developer hereby grants AdColony the non-exclusive, worldwide
-        right and license to use, reproduce, distribute and display Developer‚Äôs
-        and the Developer Apps‚Äô trademarks, logos, and images of the Developer
+        right and license to use, reproduce, distribute and display Developerís
+        and the Developer Appsí trademarks, logos, and images of the Developer
         Apps, in connection with the sale of AdColony Ads hereunder, including:
         (a) listing the Developer Apps and inventory in pitch materials to
         prospective Advertisers; (b) reporting the inclusion of Developer Apps
-        and inventory as part of AdColony‚Äôs advertising network; and (c)
-        identifying the Developer as a publishing partner on AdColony‚Äôs website
+        and inventory as part of AdColonyís advertising network; and (c)
+        identifying the Developer as a publishing partner on AdColonyís website
         and other marketing materials. AdColony also reserves the right to
         utilize publisher results (both specific and aggregate) in case studies
         and white papers for promotional purposes.
@@ -132,7 +132,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         by Developer on the AdColony Platform, Developer shall provide AdColony
         with a signed I/O. The terms of the I/O, including the Interactive
         Advertising Bureau terms and conditions incorporated into the I/O (the
-        ‚ÄúIAB Terms‚Äù) shall govern such advertising campaigns. In the event of
+        ìIAB Termsî) shall govern such advertising campaigns. In the event of
         any conflict between the I/O and such IAB Terms, the I/O shall govern
         and control with respect to such campaign.
 
@@ -140,14 +140,14 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         consist of, or promote discrimination, illegal activities, hate speech,
         defamation, graphic violence, firearms, tobacco, illegal drugs,
         pornography, profanity, obscenity or sexually explicit material
-        (‚ÄúDeveloper Apps Content Policy‚Äù). Developer will notify AdColony
+        (ìDeveloper Apps Content Policyî). Developer will notify AdColony
         immediately of any Developer Apps relating to alcohol or gambling or
         that are child-directed as defined under COPPA. Developer agrees that
         AdColony has no responsibility for the Developer Apps, including any
         content therein, and AdColony has no obligation or ability to monitor or
         edit the Developer Apps. Developer will provide as much advance written
         notice as reasonably practicable, but in no event less than fifteen (15)
-        days‚Äô notice, regarding any material changes to the nature or design of
+        daysí notice, regarding any material changes to the nature or design of
         any Developer App, including without limitation, changes to the
         placement of AdColony Ad inventory, any action that will increase or
         reduce expected AdColony Ad inventory within the Developer Apps, the
@@ -165,9 +165,9 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
     obscure or minimize any AdColony Ad in any way. Developer shall promptly
     notify AdColony if it suspects that any third party may be tampering with,
     abusing or manipulating the AdColony Platform or the AdColony Ads within the
-    Developer App. AdColony may suspend Developer‚Äôs use of the AdColony Platform
+    Developer App. AdColony may suspend Developerís use of the AdColony Platform
     and/or terminate this Agreement immediately should Developer violate the
-    foregoing provisions of this Section as determined by AdColony‚Äôs sole
+    foregoing provisions of this Section as determined by AdColonyís sole
     discretion upon evaluating its fraud detection and reporting systems, and
     Developer shall not be entitled to any revenue associated with the
     applicable campaign(s).
@@ -177,8 +177,8 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         1. Collection of Data. Developer acknowledges and agrees that
         Pseudonymous Identifiers may be used in connection with the performance
         of this Agreement in order to collect and use data from end users and
-        their devices (‚ÄúApp Data‚Äù) in connection with advertisement performance,
-        targeting, and end user interests (‚ÄúPerformance Data‚Äù), and to display
+        their devices (ìApp Dataî) in connection with advertisement performance,
+        targeting, and end user interests (ìPerformance Dataî), and to display
         AdColony Ads to end users. Developer agrees that in connection with
         AdColony Ads, AdColony may access or call to the Developer Apps, or the
         servers that make them available, and cause the routing, transmission,
@@ -193,18 +193,18 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         order, process, law or governmental agency; (iii) disclose such data
         generally when it is aggregated, such that the specific information
         relating to Developer is not identified as such; and (iv) use such
-        information for AdColony‚Äôs internal business purposes, including to
+        information for AdColonyís internal business purposes, including to
         develop and improve the AdColony SDK and AdColony Platform. AdColony
         will collect and use the data in accordance with the Digital Advertising
-        Alliance Self-Regulatory Principles (‚ÄúDAA Codes‚Äù), which are available
+        Alliance Self-Regulatory Principles (ìDAA Codesî), which are available
         at http://www.aboutads.info/principles and AdColony Privacy Policy,
         which is available at https://www.adcolony.com/privacy-policy/ (as
         updated from time to time) and is hereby incorporated by reference.
     
         2. Compliance with Laws. Developer agrees to comply with all Privacy
         Requirements (as defined below), including conspicuously posting a
-        privacy policy that accurately describes the Developer‚Äôs and third
-        parties‚Äô collection, use, and disclosure of end user data from the
+        privacy policy that accurately describes the Developerís and third
+        partiesí collection, use, and disclosure of end user data from the
         Developer Apps, which include disclosure that third parties may collect
         or receive information and use that information to provide measurement
         services and targeted ads, and disclosure of how and where users can
@@ -214,23 +214,23 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         and warrants that any data Developer provides to AdColony regarding
         devices, location, or users, and the ability for AdColony to collect the
         App Data and Performance Data, is permitted and provided in compliance
-        with all Privacy Requirements including Developer‚Äôs posted privacy
+        with all Privacy Requirements including Developerís posted privacy
         policy. Developer further represents and warrants that it has made any
         and all disclosures and obtained any and all consents or permissions
-        required by law with respect to Developer‚Äôs privacy practices, including
+        required by law with respect to Developerís privacy practices, including
         without limitation: (a) any end user data Developer collects, uses,
         and/or discloses, (b) the use and disclosure of App Data and Performance
         Data to AdColony via the AdColony SDK and AdColony Platform, and (c)
-        notice and parental consent required by the Children‚Äôs Online Privacy
-        Protection Act (‚ÄúCOPPA‚Äù). AdColony reserves the right to modify,
+        notice and parental consent required by the Childrenís Online Privacy
+        Protection Act (ìCOPPAî). AdColony reserves the right to modify,
         suspend, or terminate this Agreement should Developer violate this
         Section, and/or to remain compliant with law.
 
-        C. ‚ÄúPrivacy Requirements‚Äù means all (i) applicable laws (including
+        C. ìPrivacy Requirementsî means all (i) applicable laws (including
         COPPA), governmental regulations, court or government agency orders, and
         decrees relating in any manner to the collection, use, or dissemination
         of information from or about users, user traffic, or otherwise relating
-        to privacy rights; (ii) the DAA Codes; and (iii) Developer‚Äôs posted
+        to privacy rights; (ii) the DAA Codes; and (iii) Developerís posted
         privacy policy.
 
     6. Developer Payments
@@ -239,7 +239,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         Agreement, AdColony shall pay to Developer Net Revenue amounts
         determined by AdColony. All revenue received from activities that
         AdColony deems to be fraudulent may be refunded to the Advertiser(s) in
-        AdColony‚Äôs sole discretion.
+        AdColonyís sole discretion.
 
         2. Payment Terms. AdColony will pay any Developer Payment due to
         Developer sixty (60) days after the completion of the month in which
@@ -252,7 +252,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         any other taxes, duties, or fees for which Developer is legally
         responsible.
 
-        3. Earnings are forfeited by publisher if a) the publisher‚Äôs lifetime
+        3. Earnings are forfeited by publisher if a) the publisherís lifetime
         earnings are less than $100 and it has been more than 12 months since
         the publisher had earnings or b) the publisher has not provided payment
         information, outstanding earnings are less than $1,000 and it has been
@@ -265,7 +265,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         this Agreement.
 
         2. Termination by AdColony. AdColony may terminate this Agreement at any
-        time by providing sixty (60) days‚Äô notice to Developer. Additionally,
+        time by providing sixty (60) daysí notice to Developer. Additionally,
         AdColony may terminate this Agreement immediately if Developer breaches
         any provision of this Agreement.
 
@@ -279,8 +279,8 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         Developer, the Agreement (including all rights and licenses granted and
         obligations assumed hereunder) will remain in force and effect until the
         completion of all AdColony Ad campaigns associated with the Developer
-        Apps in effect on the date of such termination (‚ÄúSell-Off Period‚Äù).
-        AdColony‚Äôs payment obligations will remain in effect during the Sell-Off
+        Apps in effect on the date of such termination (ìSell-Off Periodî).
+        AdColonyís payment obligations will remain in effect during the Sell-Off
         Period. Upon any termination of this Agreement, each party will promptly
         return or destroy all copies of any Confidential Information in its
         possession or control. Sections 3, 7(D) through 13 shall survive any
@@ -288,15 +288,15 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
 
     8. Confidentiality
 
-        A. Definition. ‚ÄúConfidential Information‚Äù means any and all business,
+        A. Definition. ìConfidential Informationî means any and all business,
         technical and financial information or material of a party, whether
         revealed orally, visually, or in tangible or electronic form, that is
         not generally known to the public, which is disclosed to or made
-        available by one party (the ‚ÄúDisclosing Party‚Äù) to the other, or which
-        one party becomes aware of pursuant to this Agreement (the ‚ÄúReceiving
-        Party‚Äù). The AdColony SDK is AdColony‚Äôs Confidential Information, and
+        available by one party (the ìDisclosing Partyî) to the other, or which
+        one party becomes aware of pursuant to this Agreement (the ìReceiving
+        Partyî). The AdColony SDK is AdColonyís Confidential Information, and
         the terms and conditions of this Agreement shall remain confidential.
-        The failure of a Disclosing Party to designate as ‚Äúconfidential‚Äù any
+        The failure of a Disclosing Party to designate as ìconfidentialî any
         such information or material at the time of disclosure shall not result
         in a loss of status as Confidential Information to the Disclosing Party.
         Confidential Information shall not include information which: (i) is in
@@ -329,9 +329,9 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         intervene and seek an order or other relief for protecting its
         Confidential Information from any unauthorized use or disclosure) and
         the Confidential Information is only disclosed to the extent required by
-        law. The Receiving Party shall return all of the Disclosing Party‚Äôs
+        law. The Receiving Party shall return all of the Disclosing Partyís
         Confidential Information to the Disclosing Party or destroy the same, no
-        later than fifteen (15) days after Disclosing Party‚Äôs request, or when
+        later than fifteen (15) days after Disclosing Partyís request, or when
         Receiving Party no longer needs Confidential Information for its
         authorized purposes hereunder.
 
@@ -349,7 +349,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
     privacy, or publicity rights.
 
     10. Warranty Disclaimer. THE ADCOLONY SDK AND ADCOLONY PLATFORM ARE PROVIDED
-    ‚ÄúAS IS‚Äù. ADCOLONY DOES NOT MAKE ANY WARRANTIES, EXPRESS, IMPLIED, STATUTORY
+    ìAS ISî. ADCOLONY DOES NOT MAKE ANY WARRANTIES, EXPRESS, IMPLIED, STATUTORY
     OR OTHERWISE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
     NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, AND ANY IMPLIED
     WARRANTIES ARISING FROM COURSE OF DEALING OR PERFORMANCE. ADCOLONY AND ITS
@@ -366,24 +366,24 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         1. Developer Indemnification. Developer agrees to indemnify, defend, and
         hold harmless AdColony and its affiliates, and their directors,
         officers, employees, and agents from and against any liabilities,
-        damages, costs and expenses (including reasonable attorneys‚Äô fees)
+        damages, costs and expenses (including reasonable attorneysí fees)
         arising out of any claim, demand, action, or proceeding initiated by a
-        third party arising from or in connection with any breach of Developer‚Äôs
+        third party arising from or in connection with any breach of Developerís
         obligations, representations or warranties set forth in this Agreement;
         provided that, AdColony: (a) promptly notifies Developer in writing of
         the claim, except that any failure to provide this notice promptly only
         relieves Developer of its responsibility to the extent its defense is
         materially prejudiced by the delay; (b) grants Developer sole control of
         the defense and/or settlement of the claim; and (c) reasonably
-        cooperates with Developer in connection with such claim at Developer‚Äôs
+        cooperates with Developer in connection with such claim at Developerís
         cost and expense.
 
         2. AdColony Indemnification. AdColony agrees to indemnify, reimburse and
         hold harmless, Developer, its officers, directors, employees, and agents
         from and against any and all third party claims, liabilities, demands,
         causes of action, damages, losses and expenses, including, without
-        limitation, reasonable attorneys‚Äô fees and costs of suit, arising out of
-        or in connection with AdColony‚Äôs infringement or misappropriation of a
+        limitation, reasonable attorneysí fees and costs of suit, arising out of
+        or in connection with AdColonyís infringement or misappropriation of a
         third party U.S. copyright, trademark or trade secret by the use of the
         AdColony Platform and/or the AdColony SDK by Developer as permitted
         hereunder; provided that, Developer: (a) promptly notifies AdColony in
@@ -392,8 +392,8 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         defense is materially prejudiced by the delay; (b) grants AdColony sole
         control of the defense and/or settlement of the claim; and (c)
         reasonably cooperates with AdColony in connection with such claim at
-        AdColony‚Äôs cost and expense. In addition, if the use of the AdColony
-        Property by Developer has become, or in AdColony‚Äôs opinion is likely to
+        AdColonyís cost and expense. In addition, if the use of the AdColony
+        Property by Developer has become, or in AdColonyís opinion is likely to
         become, the subject of any claim of infringement, AdColony may at its
         option and expense (i) procure for Developer the right to continue using
         the AdColony Property as set forth hereunder; (ii) replace or modify the
@@ -404,14 +404,14 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         respect to any claim if such claim is caused in whole or in part by (x)
         compliance with designs, data, instructions, or specifications provided
         by Developer; (y) modification of the AdColony Property by any party
-        other than AdColony without AdColony‚Äôs express consent; or (z) the
+        other than AdColony without AdColonyís express consent; or (z) the
         combination, operation, or use of the AdColony Property with other
         applications, portions of applications, product(s), data or services
         where the AdColony Property would not by itself be infringing unless
         AdColony has required or expressly allowed such combination, operation,
         or use. THE INDEMNIFICATION RIGHTS CONTAINED IN THIS SECTION 11 ARE
-        DEVELOPER‚ÄôS SOLE REMEDY FOR THIRD PARTY INFRINGEMENT CLAIMS RELATING TO
-        ADCOLONY‚ÄôS SDK AND THE ADCOLONY PLATFORM.
+        DEVELOPERíS SOLE REMEDY FOR THIRD PARTY INFRINGEMENT CLAIMS RELATING TO
+        ADCOLONYíS SDK AND THE ADCOLONY PLATFORM.
 
     12. Limitation of Liability. EXCEPT WITH RESPECT TO INDEMNIFICATION
     OBLIGATIONS HEREIN AND BREACHES OF SECTIONS 2 and 8, NEITHER PARTY SHALL BE
@@ -421,7 +421,7 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
     NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT A PARTY WAS ADVISED OF THE
     POSSIBILITY OF SUCH LOSS OR DAMAGES. EXCEPT WITH RESPECT TO INDEMNIFICATION
     OBLIGATIONS HEREIN AND BREACHES OF SECTIONS 2 and 8, IN NO EVENT WILL EITHER
-    PARTY‚ÄôS AGGREGATE LIABILITY UNDER THIS AGREEMENT EXCEED THE TOTAL DEVELOPER
+    PARTYíS AGGREGATE LIABILITY UNDER THIS AGREEMENT EXCEED THE TOTAL DEVELOPER
     PAYMENT PAYABLE TO DEVELOPER UNDER THIS AGREEMENT BY ADCOLONY IN THE TWELVE
     (12) MONTH PERIOD IMMEDIATELY PRECEDING THE DATE OF THE CLAIM.
 
@@ -439,8 +439,8 @@ AGREEMENT, DO NOT DOWNLOAD OR USE THE ADCOLONY SDK.
         all or substantially all of its assets related to this Agreement or
         similar transaction. Notwithstanding the foregoing, Developer may not
         assign this Agreement to a direct competitor of AdColony without
-        AdColony‚Äôs prior written consent. This Agreement inures to the benefit
-        of and shall be binding on the parties‚Äô permitted assignees, transferees
+        AdColonyís prior written consent. This Agreement inures to the benefit
+        of and shall be binding on the partiesí permitted assignees, transferees
         and successors.
 
         3. Amendments; Waiver. No changes or modifications or waivers are to be

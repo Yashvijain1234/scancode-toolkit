@@ -4,9 +4,9 @@ is_license_notice: yes
 referenced_filenames:
     - COPYING
 ignorable_copyrights:
-  - copyright to Tern Inc.
+    - copyright to Tern Inc.
 ignorable_holders:
-  - Tern Inc.
+    - Tern Inc.
 ---
 
 The FreeRTOS source code is licensed by a modified GNU General Public
