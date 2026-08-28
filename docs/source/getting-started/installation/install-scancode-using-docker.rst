@@ -35,8 +35,8 @@ Run the ``docker build`` source code checkout directory.
   For instance, ::
 
     C:\scancode-toolkit>git describe --tags
-    v32.4.1
-    C:\scancode-toolkit>docker build --tag scancode-toolkit --tag scancode-toolkit:v32.4.1 .
+    v32.5.0
+    C:\scancode-toolkit>docker build --tag scancode-toolkit --tag scancode-toolkit:v32.5.0 .
 
 Verify installation
 -------------------
@@ -64,7 +64,7 @@ apache-2.0.LICENSE directory. The JSON results will be in scan-result.json
 
 .. code-block:: shell
 
-    docker run -v $PWD/:/project scancode-toolkit -clipeu --json-pp /project/scan-result.json /project/apache-2.0.LICENSE
+    docker run -v "$PWD/:/project" scancode-toolkit -clipeu --json-pp /project/scan-result.json /project/apache-2.0.LICENSE
 
 This will mount your current working from the host into ``/project`` in the container
 and then scan the contents. The output ``result.json`` will be written back to your
